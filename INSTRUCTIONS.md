@@ -102,3 +102,9 @@ Replace the example URL. On PowerShell run `$env:SITE_URL="https://your-real-dom
 Review weekly Dependabot pull requests and run `npm audit`. Update dependencies intentionally with npm and commit both `package.json` and `package-lock.json`. Add new additive migrations rather than rewriting applied ones. Back up production D1 before schema changes using Cloudflare's export/Time Travel facilities; keep exports private.
 
 For a bad code release, revert the offending commit in a new PR and merge it, or redeploy a known working version through Cloudflare. A code rollback does not undo a database migration. Coordinate data recovery separately; do not delete the database or edit migration history to fix a failed deployment. If a token leaks, revoke and replace it immediately.
+
+## 10. Update the chatbot
+
+Course and faculty changes automatically reach the AI guide on deployment. Edit `data/academy.json` when changing shared academy contacts, FAQs, scholarship or support details, and keep it aligned with the rendered pages. See [docs/CHATBOT.md](docs/CHATBOT.md). The chatbot defaults to Hinglish but visitors can request other languages.
+
+The GitHub workflow configures Workers AI and verifies a real response after deployment. Local Vite preview has no AI connection; the local integration verifier disables remote AI intentionally. To test real inference from Wrangler, authenticate with `npx wrangler login`, initialize local D1, build and run `npm run dev:worker`. Cloudflare AI requests use your account and may incur usage charges. Never put a token in frontend code.

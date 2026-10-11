@@ -5,6 +5,7 @@ import pages from '../data/catalog.json';
 import assets from '../data/assets.json';
 import faculty from '../data/faculty.json';
 import './style.css';
+import Chatbot from './Chatbot.jsx';
 
 const courses=pages.filter(p=>p.type==='course');
 const families=pages.filter(p=>p.type==='family');
@@ -78,6 +79,6 @@ function App(){
  function toggleSave(id){setSaved(previous=>{const next=previous.includes(id)?previous.filter(x=>x!==id):[...previous,id];try{localStorage.setItem('asca-saved',JSON.stringify(next));}catch{}return next;});}
  function onCounsel(c='General guidance'){setCounsel(c);}
  useEffect(()=>{document.title=(page?.title||'Course search')+' | ASCA';},[page]);
- return <><a href="#main-content" className="skip-link">Skip to content</a><Header onCounsel={onCounsel} onSaved={()=>setSavedOpen(true)} savedCount={saved.length}/><div id="main-content">{path==='/search/'?<SearchPage/>:!page?<main className="container empty-state"><h1>Page not found</h1><p>Let’s get you back to your learning journey.</p><a className="primary" href="/">Go to ASCA home</a></main>:page.type==='home'?<Home onCounsel={onCounsel}/>:page.type==='course'?<CoursePage page={page} onCounsel={onCounsel} saved={saved} toggleSave={toggleSave}/>:page.type==='family'?<Catalogue page={page} onCounsel={onCounsel}/>:page.type==='about'?<About onCounsel={onCounsel}/>:<OtherCourses page={page} onCounsel={onCounsel}/>}</div><Footer onCounsel={onCounsel}/>{counsel!==null&&<Counselling course={counsel} onClose={()=>setCounsel(null)}/>} {savedOpen&&<Saved saved={saved} toggleSave={toggleSave} onClose={()=>setSavedOpen(false)}/>}</>;
+ return <><a href="#main-content" className="skip-link">Skip to content</a><Header onCounsel={onCounsel} onSaved={()=>setSavedOpen(true)} savedCount={saved.length}/><div id="main-content">{path==='/search/'?<SearchPage/>:!page?<main className="container empty-state"><h1>Page not found</h1><p>Let’s get you back to your learning journey.</p><a className="primary" href="/">Go to ASCA home</a></main>:page.type==='home'?<Home onCounsel={onCounsel}/>:page.type==='course'?<CoursePage page={page} onCounsel={onCounsel} saved={saved} toggleSave={toggleSave}/>:page.type==='family'?<Catalogue page={page} onCounsel={onCounsel}/>:page.type==='about'?<About onCounsel={onCounsel}/>:<OtherCourses page={page} onCounsel={onCounsel}/>}</div><Footer onCounsel={onCounsel}/><Chatbot/>{counsel!==null&&<Counselling course={counsel} onClose={()=>setCounsel(null)}/>} {savedOpen&&<Saved saved={saved} toggleSave={toggleSave} onClose={()=>setSavedOpen(false)}/>}</>;
 }
 createRoot(document.getElementById('root')).render(<App/>);

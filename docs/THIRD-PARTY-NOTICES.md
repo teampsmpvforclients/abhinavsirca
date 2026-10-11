@@ -9,3 +9,5 @@ The optimised normal Source Sans font was obtained from the public font URL obse
 React, React DOM, Vite, GraphQL.js, Wrangler and Phosphor retain their respective upstream licences. Install exact versions from `package-lock.json`; upstream licence files are distributed with the installed npm packages.
 
 No Coursera logos, partner endorsements, course photography, testimonial portraits, advertising pixels, cookie-consent account identifiers, private API credentials or production source bundles are included in the ASCA product. The report contains original analysis of the observed interface rather than Coursera's private design-system code.
+
+The chatbot icon in `public/assets/chat-book.svg` was supplied by the user as `chat-book-svgrepo-com.svg`; its original SVG Repo attribution comment is preserved.

@@ -1,8 +1,11 @@
 import {spawn} from 'node:child_process';
-import {writeFile} from 'node:fs/promises';
+import {readFile,writeFile,rm} from 'node:fs/promises';
 import assert from 'node:assert/strict';
 import pages from '../data/catalog.json' with {type:'json'};
-const child=spawn(process.execPath,['node_modules/wrangler/bin/wrangler.js','dev','--ip','127.0.0.1','--port','8798','--inspector-port','9258'],{stdio:['ignore','pipe','pipe']});
+// Local regression checks must not invoke paid/remote AI or require credentials.
+const config=JSON.parse(await readFile('wrangler.jsonc','utf8'));delete config.ai;
+const verificationConfig='.worker-verify.json';await writeFile(verificationConfig,JSON.stringify(config));
+const child=spawn(process.execPath,['node_modules/wrangler/bin/wrangler.js','dev','--config',verificationConfig,'--ip','127.0.0.1','--port','8798','--inspector-port','9258'],{stdio:['ignore','pipe','pipe']});
 let output='';child.stdout.on('data',d=>output+=d);child.stderr.on('data',d=>output+=d);
 const base='http://127.0.0.1:8798';
 try{
@@ -15,4 +18,4 @@ try{
  const gql=await (await post({query:'{courses(category:"CA"){title}}'},'/api/graphql')).json();assert.equal(gql.data.courses.length,3);
  const result={routes,worker_runtime:'workerd via Wrangler',storage:'local D1',enquiry_id:saved.id,rate_limit_statuses:statuses,graphql_ca_courses:3};
  await writeFile('docs/verification.json',JSON.stringify(result,null,2));console.log('PASS: 34 routes HTTP 200; local D1 submission and rate limit; GraphQL catalogue.');
-}finally{child.kill('SIGTERM');}
+}finally{child.kill('SIGTERM');await rm(verificationConfig,{force:true});}

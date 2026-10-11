@@ -11,3 +11,7 @@ Enquiries contain personal information in D1. Limit dashboard access, establish 
 ## Maintenance
 
 Run `npm audit` and review dependency update pull requests. Test and build before merging. Use environment protection and branch rulesets where available. CI uses read-only repository permissions and deployment secrets are available only to the production deployment job, never pull-request validation.
+
+## Chatbot
+
+Chat requests run through the Worker; browsers receive no Cloudflare credentials. Model input/output and history are bounded, cross-origin browser requests are rejected, and D1 holds only hashed hourly chat counters. The app does not store transcripts; messages are processed by Cloudflare Workers AI. Do not ask visitors to enter passwords or private learner records. Model output is rendered as text, with links limited to actual catalogue routes.

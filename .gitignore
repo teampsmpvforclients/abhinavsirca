@@ -4,6 +4,7 @@ dist/
 coverage/
 .wrangler/
 .cloudflare-deploy.json
+.worker-verify.json
 # Local assistant state
 .openai/
 .codex/

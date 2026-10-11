@@ -1,0 +1,105 @@
+{
+  "academy": {
+    "name": "ASCA",
+    "organisation": "A unit of ISSEDU",
+    "established": 2002,
+    "mentor": {
+      "name": "CA (Dr) Abhinav Agarwal",
+      "qualifications": [
+        "CA",
+        "LL.B",
+        "DISA",
+        "MBA",
+        "M.Com",
+        "PhD in Management"
+      ]
+    },
+    "formats": [
+      "Classroom",
+      "Live online",
+      "Recorded classes"
+    ],
+    "support": [
+      "Class notes",
+      "Revision",
+      "Mock tests",
+      "Individual doubt support",
+      "Career counselling",
+      "Academy library"
+    ],
+    "centres": [
+      {
+        "city": "Moradabad",
+        "address": "Near RSD Hospital, Ramganga Vihar, Moradabad – 244001, Uttar Pradesh, India",
+        "phones": [
+          "+91 9837622221",
+          "+91 9927622221"
+        ],
+        "email": "abhinavsirca@gmail.com"
+      },
+      {
+        "city": "Greater Noida",
+        "address": "Office 835, 8th floor, Uferia Mall, Ek Murti Circle, Greater Noida West, Uttar Pradesh – 201306",
+        "phones": [
+          "+91 9536622221"
+        ],
+        "email": "ascanoida@gmail.com"
+      }
+    ],
+    "studentPortal": "https://abhinavsirca.co.in/",
+    "social": {
+      "youtube": "https://www.youtube.com/@abhinavsirca/videos",
+      "instagram": "https://www.instagram.com/abhinav_sir_asca/"
+    }
+  },
+  "faqs": [
+    {
+      "question": "Can I study online?",
+      "answer": "Classroom, live online and recorded learning are offered. Confirm availability for the chosen course and batch."
+    },
+    {
+      "question": "How do I choose the right course?",
+      "answer": "Ask for counselling to discuss education, interests and career goals."
+    },
+    {
+      "question": "How can I find fees and batches?",
+      "answer": "Send a counselling enquiry through Get guidance or call +91 9837622221 for current fees, batch dates and admission process."
+    }
+  ],
+  "additionalPathways": [
+    "US CPA",
+    "CFA",
+    "EA",
+    "CIA",
+    "CFP",
+    "University guidance"
+  ],
+  "websiteFeatures": [
+    "Search the course catalogue",
+    "Save courses in this browser on this device",
+    "View syllabus and FAQs",
+    "Request a counselling callback with consent",
+    "Link to the existing student portal"
+  ],
+  "unknownDetails": [
+    "Current fees and discounts",
+    "Exact batch dates and schedules",
+    "Guaranteed placements or results",
+    "Current examination dates or changed eligibility rules",
+    "Course duration unless stated in the catalogue"
+  ],
+  "officialBodies": {
+    "CA": "https://www.icai.org/",
+    "CS": "https://www.icsi.edu/",
+    "CMA": "https://icmai.in/",
+    "ACCA": "https://www.accaglobal.com/",
+    "UGC NET": "https://ugcnet.nta.ac.in/",
+    "Tally": "https://tallyeducation.com/"
+  },
+  "scholarship": {
+    "name": "Lt. CA Sunil Kumar Agarwal scholarship",
+    "support": "Commerce and professional education through financial assistance and counselling",
+    "availability": "Ask the ASCA team for current terms and availability"
+  },
+  "counselling": "Free counselling is advertised on the homepage; use Get guidance to request a callback. No payment required to send an enquiry."
+}

@@ -1,5 +1,6 @@
 import {buildSchema, graphql} from 'graphql';
 import pages from '../data/catalog.json' with {type:'json'};
+import {handleChat} from './chat.js';
 
 const schema=buildSchema(`
  type Module {title:String!, topics:[String!]!}
@@ -51,6 +52,7 @@ export async function handleRequest(req,env={}) {
  const url=new URL(req.url);
  try{
   if(url.pathname==='/api/health')return json({ok:true,storage:env.DB?'d1':env.LOCAL_PREVIEW?'preview':'unconfigured'});
+  if(url.pathname==='/api/chat')return await handleChat(req,env,safeOrigin(req,env));
   if(url.pathname==='/api/inquiries')return req.method==='POST'?await inquiry(req,env):json({error:'Method not allowed.'},405);
   if(url.pathname==='/api/graphql'){
    if(req.method!=='POST')return json({error:'Use POST.'},405);

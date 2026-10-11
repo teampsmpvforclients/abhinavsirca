@@ -71,6 +71,14 @@ The explicit IP avoids interface-enumeration problems in some containers. The Wo
 
 Do not upload `dist` alone through a static drag-and-drop host: that would omit the Worker APIs. The supplied Cloudflare deployment path is Workers with Static Assets. A Pages conversion would require a Pages Worker/functions entry and equivalent D1 binding; it is not needed for this package.
 
+## ASCA AI course guide
+
+The sticky book/chat icon opens a multilingual AI guide backed by Cloudflare Workers AI Gemma 4 26B A4B (`@cf/google/gemma-4-26b-a4b-it`), the Gemma 4 model currently offered by Cloudflare. It defaults to Hinglish and follows requested languages. Answers use the entire published course catalogue and syllabus, faculty, FAQs, contacts and scholarship guidance; general study/career advice is distinguished from confirmed academy details.
+
+Clicking the backdrop, closing the panel or pressing Escape clears chat history and cancels pending replies. The site keeps chat only in browser memory and sends messages to Cloudflare for inference; no transcripts are saved in D1. The API permits 30 requests per IP/hour using separate hashed hourly keys. Workers AI usage may be billed under the account plan.
+
+The GitHub deployment workflow binds `AI`, deploys, then sends one inference request to verify the live chatbot. Local `npm run dev` displays a clear unavailable message because Vite has no AI binding. Wrangler AI development requires Cloudflare authentication and uses remote inference. Credential-free integration checks intentionally remove the AI binding from a temporary local configuration. See [chatbot maintenance](docs/CHATBOT.md).
+
 ## Working features
 
 | Feature | Implementation |
