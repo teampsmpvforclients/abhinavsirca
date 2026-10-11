@@ -1,5 +1,7 @@
 # ASCA learning website — Cloudflare deployment
 
+Live site: [ASCA learning website](https://asca-learning.teampsmpvforclients.workers.dev).
+
 34 source-page routes, a searchable course catalogue, device-local saved courses, syllabus/FAQ disclosures and durable counselling enquiries. The design follows the observed Coursera public discovery interface with ASCA content and original academy assets.
 
 Read `docs/Coursera-ASCA-UIUX-Analysis.md` for the detailed reference/implementation analysis and `docs/AbhinavSirCA-Website-Content-Inventory.md` for the original content inventory. The package is an independent implementation; it does not include Coursera private APIs, payments, AI assistant or learning-management backend.
@@ -65,7 +67,7 @@ The explicit IP avoids interface-enumeration problems in some containers. The Wo
 
    Replace the example domain. `SITE_URL` is a build environment variable used for canonical metadata and the sitemap; setting only the Worker variable will not rewrite already built HTML. Windows PowerShell users can set `$env:SITE_URL` before running the command.
 
-5. In Cloudflare, add your custom domain if desired. Confirm the deployed homepage, a nested course route, search, enquiry submission and D1 row creation. This project has not been deployed to an external account for you.
+5. In Cloudflare, add your custom domain if desired. Confirm the deployed homepage, a nested course route, search, enquiry submission and D1 row creation. The repository workflow has deployed this project to `https://asca-learning.teampsmpvforclients.workers.dev`; follow these manual steps only when deploying to a different account.
 
 Do not upload `dist` alone through a static drag-and-drop host: that would omit the Worker APIs. The supplied Cloudflare deployment path is Workers with Static Assets. A Pages conversion would require a Pages Worker/functions entry and equivalent D1 binding; it is not needed for this package.
 
