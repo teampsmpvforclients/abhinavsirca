@@ -1,0 +1,152 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "status": 200
+    },
+    {
+      "path": "/abhinavsirca-chartered-accountancy-coaching/",
+      "status": 200
+    },
+    {
+      "path": "/courses/ca-foundation/",
+      "status": 200
+    },
+    {
+      "path": "/courses/ca-intermediate-coaching/",
+      "status": 200
+    },
+    {
+      "path": "/courses/abhinasirca-ca-final-coaching/",
+      "status": 200
+    },
+    {
+      "path": "/company-secretarycs/",
+      "status": 200
+    },
+    {
+      "path": "/courses/csset-coaching/",
+      "status": 200
+    },
+    {
+      "path": "/courses/ca-executive-coaching/",
+      "status": 200
+    },
+    {
+      "path": "/courses/cs-professional/",
+      "status": 200
+    },
+    {
+      "path": "/cost-and-management-accountant-cma/",
+      "status": 200
+    },
+    {
+      "path": "/courses/cma-foundation/",
+      "status": 200
+    },
+    {
+      "path": "/courses/tally-course/",
+      "status": 200
+    },
+    {
+      "path": "/courses/tally-certification-with-online-internship/",
+      "status": 200
+    },
+    {
+      "path": "/courses/master-accountant-using-tally/",
+      "status": 200
+    },
+    {
+      "path": "/courses/tally-certification-with-gst-simulation/",
+      "status": 200
+    },
+    {
+      "path": "/courses/complete-guide-to-payroll-income-tax/",
+      "status": 200
+    },
+    {
+      "path": "/courses/complete-guide-to-inventory-management/",
+      "status": 200
+    },
+    {
+      "path": "/courses/tallyessential/",
+      "status": 200
+    },
+    {
+      "path": "/courses/tallyprofessional/",
+      "status": 200
+    },
+    {
+      "path": "/courses/tally-certification-with-online-internship-2/",
+      "status": 200
+    },
+    {
+      "path": "/courses/gst-using-tallyprime/",
+      "status": 200
+    },
+    {
+      "path": "/courses/tds-using-tally/",
+      "status": 200
+    },
+    {
+      "path": "/courses/gcc-vat-using-tallyprime/",
+      "status": 200
+    },
+    {
+      "path": "/courses/tallyessential-international/",
+      "status": 200
+    },
+    {
+      "path": "/courses/tallyace-international/",
+      "status": 200
+    },
+    {
+      "path": "/courses/tallyessential-oman/",
+      "status": 200
+    },
+    {
+      "path": "/courses/acca/",
+      "status": 200
+    },
+    {
+      "path": "/courses/clat/",
+      "status": 200
+    },
+    {
+      "path": "/courses/cuet/",
+      "status": 200
+    },
+    {
+      "path": "/courses/ipmat-coaching/",
+      "status": 200
+    },
+    {
+      "path": "/courses/ugc-net-coaching/",
+      "status": 200
+    },
+    {
+      "path": "/courses/foreign-courses/",
+      "status": 200
+    },
+    {
+      "path": "/courses/universitry-courses/",
+      "status": 200
+    },
+    {
+      "path": "/about-abhinavsirca/",
+      "status": 200
+    }
+  ],
+  "worker_runtime": "workerd via Wrangler",
+  "storage": "local D1",
+  "enquiry_id": "c08abb0d-9ae9-4e68-bbb9-98503f7632e0",
+  "rate_limit_statuses": [
+    201,
+    201,
+    201,
+    201,
+    201,
+    429
+  ],
+  "graphql_ca_courses": 3
+}

@@ -1,0 +1,7 @@
+# Changelog
+
+## 1.0.0 — 2026-10-11
+
+- Initial repository publication of the ASCA React site, 34 course routes, catalogue APIs and D1 enquiry storage.
+- Add beginner instructions, contribution and security guidance, ownership, issue and pull request templates.
+- Add test/build validation and Cloudflare API deployment through the GitHub `production` environment.

@@ -1,0 +1,12 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import pages from '../data/catalog.json' with {type:'json'};
+import {handleRequest,validateInquiry} from '../worker/index.js';
+const good={name:'Test Learner',email:'learner@example.com',phone:'+91 9999999999',course:'CA Foundation',message:'Local test',consent:true,website:''};
+const request=(body,path='/api/inquiries',extra={})=>new Request('http://localhost'+path,{method:'POST',headers:{'Content-Type':'application/json',...extra},body:JSON.stringify(body)});
+test('34 unique source routes retain the two misleading slug mappings',()=>{assert.equal(pages.length,34);assert.equal(new Set(pages.map(p=>p.path)).size,34);assert.equal(pages.find(p=>p.path==='/courses/ca-executive-coaching/').title,'CS Executive');assert.equal(pages.find(p=>p.path==='/courses/tally-certification-with-online-internship/').title,'Office Automation');});
+test('GraphQL searches and filters the actual catalogue',async()=>{const r=await handleRequest(request({query:'query($q:String,$category:String){courses(q:$q,category:$category){title category}}',variables:{q:'GST',category:'Tally & GST'}},'/api/graphql'));const b=await r.json();assert.ok(b.data.courses.length>0);assert.ok(b.data.courses.every(c=>c.category==='Tally & GST'));});
+test('GraphQL cannot retrieve enquiries',async()=>{const r=await handleRequest(request({query:'{enquiries{name email}}'},'/api/graphql'));assert.ok((await r.json()).errors);});
+test('Inquiry validation rejects bad contact details, missing consent and honeypot',()=>{assert.equal(validateInquiry(good),null);for(const changes of [{email:'bad'},{phone:'letters'},{course:'Unknown'},{consent:false},{website:'https://bot.example'},{message:'x'.repeat(2001)}])assert.ok(validateInquiry({...good,...changes}));});
+test('Production never reports success without a database',async()=>{const r=await handleRequest(request(good));assert.equal(r.status,503);assert.ok((await r.json()).error);});
+test('Local preview is explicitly flagged; cross-origin and malformed requests rejected',async()=>{const r=await handleRequest(request(good),{LOCAL_PREVIEW:true});assert.equal(r.status,201);assert.equal((await r.json()).preview,true);assert.equal((await handleRequest(request(good,'/api/inquiries',{Origin:'https://unrelated.example'}))).status,403);assert.equal((await handleRequest(new Request('http://localhost/api/inquiries',{method:'POST',headers:{'Content-Type':'application/json'},body:'not json'}))).status,400);});

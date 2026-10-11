@@ -1,0 +1,1432 @@
+[
+  {
+    "id": "1",
+    "path": "/",
+    "source": "https://abhinavsirca.in/",
+    "type": "home",
+    "title": "Learn with ASCA",
+    "description": "Your next step starts here. Explore professional qualifications, practical accounting and entrance exam preparation.",
+    "category": "Other Courses",
+    "image": "abhinavsirca-students.jpg"
+  },
+  {
+    "id": "2",
+    "path": "/abhinavsirca-chartered-accountancy-coaching/",
+    "source": "https://abhinavsirca.in/abhinavsirca-chartered-accountancy-coaching/",
+    "type": "family",
+    "title": "Chartered Accountancy",
+    "category": "CA",
+    "description": "Prepare for every stage of your CA journey: Foundation, Intermediate and Final.",
+    "image": "close-up-students-indoors-1024x763.jpg"
+  },
+  {
+    "id": "3",
+    "path": "/courses/ca-foundation/",
+    "source": "https://abhinavsirca.in/courses/ca-foundation/",
+    "type": "course",
+    "title": "CA Foundation",
+    "category": "CA",
+    "level": "Foundation",
+    "description": "Build your first step towards chartered accountancy with accounting, business law, quantitative aptitude and economics.",
+    "modules": [
+      {
+        "title": "Accounting",
+        "topics": [
+          "Principles, policies and standards",
+          "Journals, ledgers and trial balance",
+          "Bank reconciliation, inventory and depreciation",
+          "Sole traders, partnerships, LLPs and company accounts"
+        ]
+      },
+      {
+        "title": "Business Laws",
+        "topics": [
+          "Indian regulatory framework",
+          "Contract Act and Sale of Goods Act",
+          "Partnership Act and LLP Act",
+          "Companies Act and Negotiable Instruments Act"
+        ]
+      },
+      {
+        "title": "Quantitative Aptitude",
+        "topics": [
+          "Business mathematics — 40 marks",
+          "Logical reasoning — 20 marks",
+          "Statistics — 40 marks"
+        ]
+      },
+      {
+        "title": "Business Economics",
+        "topics": [
+          "Demand, supply and production",
+          "Markets and business cycles",
+          "National income and public finance",
+          "Money, international trade and the Indian economy"
+        ]
+      }
+    ],
+    "image": "ca-foundation-590x370.jpg",
+    "skills": [
+      "Principles, policies and standards",
+      "Journals, ledgers and trial balance",
+      "Bank reconciliation, inventory and depreciation",
+      "Sole traders, partnerships, LLPs and company accounts",
+      "Indian regulatory framework",
+      "Contract Act and Sale of Goods Act"
+    ]
+  },
+  {
+    "id": "4",
+    "path": "/courses/ca-intermediate-coaching/",
+    "source": "https://abhinavsirca.in/courses/ca-intermediate-coaching/",
+    "type": "course",
+    "title": "CA Intermediate",
+    "category": "CA",
+    "level": "Intermediate",
+    "description": "Develop the accounting, law, taxation, costing, auditing and finance skills at the next stage of your CA journey.",
+    "modules": [
+      {
+        "title": "Advanced Accounting",
+        "topics": [
+          "Accounting standards",
+          "Company accounts and cash flows",
+          "Amalgamation, reconstruction and branches"
+        ]
+      },
+      {
+        "title": "Corporate and Other Laws",
+        "topics": [
+          "Companies Act",
+          "LLP, interpretation and General Clauses Act",
+          "FEMA"
+        ]
+      },
+      {
+        "title": "Taxation",
+        "topics": [
+          "Income tax — 50 marks",
+          "GST — 50 marks"
+        ]
+      },
+      {
+        "title": "Cost and Management Accounting",
+        "topics": [
+          "Materials, labour and overheads",
+          "Costing methods and systems",
+          "Marginal costs and budgets"
+        ]
+      },
+      {
+        "title": "Auditing and Ethics",
+        "topics": [
+          "Planning, controls and evidence",
+          "Documentation and reporting",
+          "Bank audits and professional ethics"
+        ]
+      },
+      {
+        "title": "Financial and Strategic Management",
+        "topics": [
+          "Financial management — 50 marks",
+          "Strategic management — 50 marks"
+        ]
+      }
+    ],
+    "image": "ca-intermediate-590x370.jpg",
+    "skills": [
+      "Accounting standards",
+      "Company accounts and cash flows",
+      "Amalgamation, reconstruction and branches",
+      "Companies Act",
+      "LLP, interpretation and General Clauses Act",
+      "FEMA"
+    ]
+  },
+  {
+    "id": "5",
+    "path": "/courses/abhinasirca-ca-final-coaching/",
+    "source": "https://abhinavsirca.in/courses/abhinasirca-ca-final-coaching/",
+    "type": "course",
+    "title": "CA Final",
+    "category": "CA",
+    "level": "Advanced",
+    "description": "Prepare for the final stage of chartered accountancy through financial reporting, finance, audit, taxation and integrated case work.",
+    "modules": [
+      {
+        "title": "Financial Reporting",
+        "topics": [
+          "Ind AS and financial instruments",
+          "Consolidation",
+          "Financial analysis, ethics and technology"
+        ]
+      },
+      {
+        "title": "Advanced Financial Management",
+        "topics": [
+          "Risk, investments and portfolios",
+          "Derivatives and foreign exchange",
+          "Valuation, restructuring and startup funding"
+        ]
+      },
+      {
+        "title": "Advanced Auditing",
+        "topics": [
+          "Assurance, evidence and reporting",
+          "Digital, group, bank and forensic audits",
+          "ESG and professional ethics"
+        ]
+      },
+      {
+        "title": "Direct and International Tax",
+        "topics": [
+          "Income and entity assessment",
+          "Administration and disputes",
+          "Non-residents, treaties and transfer pricing"
+        ]
+      },
+      {
+        "title": "Indirect Tax",
+        "topics": [
+          "G​​ST supplies, credits and returns",
+          "Imports, exports and refunds",
+          "Customs and foreign trade policy"
+        ]
+      },
+      {
+        "title": "Integrated Business Solutions",
+        "topics": [
+          "Company, securities and economic laws",
+          "Strategic cost and performance management",
+          "Business cases and integrated analysis"
+        ]
+      }
+    ],
+    "image": "close-up-students-indoors-1024x763.jpg",
+    "skills": [
+      "Ind AS and financial instruments",
+      "Consolidation",
+      "Financial analysis, ethics and technology",
+      "Risk, investments and portfolios",
+      "Derivatives and foreign exchange",
+      "Valuation, restructuring and startup funding"
+    ]
+  },
+  {
+    "id": "6",
+    "path": "/company-secretarycs/",
+    "source": "https://abhinavsirca.in/company-secretarycs/",
+    "type": "family",
+    "title": "Company Secretary",
+    "category": "CS",
+    "description": "Build a career in corporate governance, statutory compliance and legal management.",
+    "image": "close-up-students-indoors-1024x763.jpg"
+  },
+  {
+    "id": "7",
+    "path": "/courses/csset-coaching/",
+    "source": "https://abhinavsirca.in/courses/csset-coaching/",
+    "type": "course",
+    "title": "CSEET",
+    "category": "CS",
+    "level": "Entrance",
+    "description": "Start your company secretary preparation with business communication, accounting, economic awareness and business law.",
+    "modules": [
+      {
+        "title": "Business Communication",
+        "topics": [
+          "English and business correspondence",
+          "Business terminology"
+        ]
+      },
+      {
+        "title": "Fundamentals of Accounting",
+        "topics": [
+          "Recording transactions and reconciliation",
+          "Depreciation and final accounts",
+          "Partnerships, LLPs, companies and non-profits"
+        ]
+      },
+      {
+        "title": "Economic and Business Environment",
+        "topics": [
+          "Economics — 50 marks",
+          "Business environment — 50 marks",
+          "Entrepreneurship, governance and technology"
+        ]
+      },
+      {
+        "title": "Business Law and Management",
+        "topics": [
+          "Business laws — 60 marks",
+          "Management — 40 marks",
+          "Contracts, company and partnership laws"
+        ]
+      }
+    ],
+    "image": "cseet-590x370.jpg",
+    "skills": [
+      "English and business correspondence",
+      "Business terminology",
+      "Recording transactions and reconciliation",
+      "Depreciation and final accounts",
+      "Partnerships, LLPs, companies and non-profits",
+      "Economics"
+    ]
+  },
+  {
+    "id": "8",
+    "path": "/courses/ca-executive-coaching/",
+    "source": "https://abhinavsirca.in/courses/ca-executive-coaching/",
+    "type": "course",
+    "title": "CS Executive",
+    "category": "CS",
+    "level": "Intermediate",
+    "description": "Study corporate law, governance, finance, securities and taxation through a seven-paper Executive programme.",
+    "modules": [
+      {
+        "title": "Group 1",
+        "topics": [
+          "Jurisprudence, interpretation and general laws",
+          "Company law and practice",
+          "Business establishment, industrial and labour laws",
+          "Corporate accounting and financial management"
+        ]
+      },
+      {
+        "title": "Group 2",
+        "topics": [
+          "Capital markets and securities laws",
+          "Economic, commercial and intellectual property laws",
+          "Tax laws"
+        ]
+      }
+    ],
+    "image": "close-up-students-indoors-1024x763.jpg",
+    "skills": [
+      "Jurisprudence, interpretation and general laws",
+      "Company law and practice",
+      "Business establishment, industrial and labour laws",
+      "Corporate accounting and financial management",
+      "Capital markets and securities laws",
+      "Economic, commercial and intellectual property laws"
+    ]
+  },
+  {
+    "id": "9",
+    "path": "/courses/cs-professional/",
+    "source": "https://abhinavsirca.in/courses/cs-professional/",
+    "type": "course",
+    "title": "CS Professional",
+    "category": "CS",
+    "level": "Advanced",
+    "description": "Progress towards professional practice with governance, drafting, compliance, corporate finance and specialist electives.",
+    "modules": [
+      {
+        "title": "Group 1",
+        "topics": [
+          "Environmental, social and governance principles",
+          "Drafting, pleadings and appearances",
+          "Compliance, audit and due diligence",
+          "Elective 1"
+        ]
+      },
+      {
+        "title": "Group 2",
+        "topics": [
+          "Strategic management and corporate finance",
+          "Corporate restructuring, valuation and insolvency",
+          "Elective 2"
+        ]
+      },
+      {
+        "title": "Elective 1",
+        "topics": [
+          "CSR",
+          "Internal and forensic audit",
+          "Intellectual property",
+          "AI, data and cyber laws",
+          "Advanced tax",
+          "IFSCA regulations"
+        ]
+      },
+      {
+        "title": "Elective 2",
+        "topics": [
+          "Dispute resolution",
+          "GST and corporate tax planning",
+          "Labour laws",
+          "Banking and insurance",
+          "Insolvency"
+        ]
+      }
+    ],
+    "image": "cs-professional.jpg",
+    "skills": [
+      "Environmental, social and governance principles",
+      "Drafting, pleadings and appearances",
+      "Compliance, audit and due diligence",
+      "Elective 1",
+      "Strategic management and corporate finance",
+      "Corporate restructuring, valuation and insolvency"
+    ]
+  },
+  {
+    "id": "10",
+    "path": "/cost-and-management-accountant-cma/",
+    "source": "https://abhinavsirca.in/cost-and-management-accountant-cma/",
+    "type": "family",
+    "title": "Cost & Management Accounting",
+    "category": "CMA",
+    "description": "Explore a career in cost accounting, finance, taxation and strategic business management.",
+    "image": "close-up-students-indoors-1024x763.jpg"
+  },
+  {
+    "id": "11",
+    "path": "/courses/cma-foundation/",
+    "source": "https://abhinavsirca.in/courses/cma-foundation/",
+    "type": "course",
+    "title": "CMA Foundation",
+    "category": "CMA",
+    "level": "Foundation",
+    "description": "Begin cost and management accounting with law, financial accounting, quantitative skills and economics.",
+    "modules": [
+      {
+        "title": "Business Laws and Communication",
+        "topics": [
+          "Contracts, sales and negotiable instruments",
+          "Business communication"
+        ]
+      },
+      {
+        "title": "Financial and Cost Accounting",
+        "topics": [
+          "Accounting fundamentals",
+          "Special transactions and final accounts",
+          "Cost accounting basics"
+        ]
+      },
+      {
+        "title": "Business Mathematics and Statistics",
+        "topics": [
+          "Arithmetic and algebra",
+          "Business calculus",
+          "Data, probability and indices"
+        ]
+      },
+      {
+        "title": "Business Economics and Management",
+        "topics": [
+          "Markets, money and banking",
+          "Business environment",
+          "Management principles"
+        ]
+      }
+    ],
+    "image": "cma-foundation-1-590x370.jpg",
+    "skills": [
+      "Contracts, sales and negotiable instruments",
+      "Business communication",
+      "Accounting fundamentals",
+      "Special transactions and final accounts",
+      "Cost accounting basics",
+      "Arithmetic and algebra"
+    ]
+  },
+  {
+    "id": "13",
+    "path": "/courses/tally-course/",
+    "source": "https://abhinavsirca.in/courses/tally-course/",
+    "type": "family",
+    "title": "Tally & GST",
+    "category": "Tally & GST",
+    "description": "Build practical accounting, taxation and workplace skills with TallyPrime training.",
+    "image": "close-up-students-indoors-1024x763.jpg"
+  },
+  {
+    "id": "14",
+    "path": "/courses/tally-certification-with-online-internship/",
+    "source": "https://abhinavsirca.in/courses/tally-certification-with-online-internship/",
+    "type": "course",
+    "title": "Office Automation",
+    "category": "Tally & GST",
+    "level": "Beginner",
+    "description": "Use Windows, Word, Excel and PowerPoint for everyday workplace and accounting tasks.",
+    "modules": [
+      {
+        "title": "Computer Fundamentals",
+        "topics": [
+          "Hardware, software and desktop settings",
+          "Windows 11"
+        ]
+      },
+      {
+        "title": "Files and Folders",
+        "topics": [
+          "File management and wildcards",
+          "Recycle bin and Notepad"
+        ]
+      },
+      {
+        "title": "Microsoft Word",
+        "topics": [
+          "Documents and paragraphs",
+          "Insert functions"
+        ]
+      },
+      {
+        "title": "Microsoft Excel",
+        "topics": [
+          "Formatting and references",
+          "Logical and financial functions",
+          "Lookups, Goal Seek, charts and pivots"
+        ]
+      },
+      {
+        "title": "Microsoft PowerPoint",
+        "topics": [
+          "Templates and presentation creation",
+          "Finishing a presentation"
+        ]
+      }
+    ],
+    "image": "3-1024x585.jpeg",
+    "skills": [
+      "Hardware, software and desktop settings",
+      "Windows 11",
+      "File management and wildcards",
+      "Recycle bin and Notepad",
+      "Documents and paragraphs",
+      "Insert functions"
+    ]
+  },
+  {
+    "id": "15",
+    "path": "/courses/master-accountant-using-tally/",
+    "source": "https://abhinavsirca.in/courses/master-accountant-using-tally/",
+    "type": "course",
+    "title": "Master Accountant using Tally",
+    "category": "Tally & GST",
+    "level": "Comprehensive",
+    "description": "Combine accounting and taxation in TallyPrime with GST simulations, workplace skills and practical internship assignments.",
+    "modules": [
+      {
+        "title": "Accounting, Taxation and Inventory Control",
+        "topics": [
+          "Accounting fundamentals and company setup",
+          "Banking, reports, security and data",
+          "Inventory, orders and cost centres",
+          "GST, TDS and financial-year changes"
+        ]
+      },
+      {
+        "title": "Advanced Accounting and Taxation",
+        "topics": [
+          "Multicurrency and interest",
+          "Job work and advanced banking",
+          "Tally.NET",
+          "Advanced GST, TDS, TCS and payroll"
+        ]
+      },
+      {
+        "title": "Business English",
+        "topics": [
+          "English and grammar"
+        ]
+      },
+      {
+        "title": "GCC VAT",
+        "topics": [
+          "VAT accounting and transactions"
+        ]
+      },
+      {
+        "title": "GST Simulation",
+        "topics": [
+          "Compliance tutorials and assignments"
+        ]
+      },
+      {
+        "title": "Office Automation",
+        "topics": [
+          "Windows, Word, Excel and PowerPoint"
+        ]
+      },
+      {
+        "title": "Personality Development",
+        "topics": [
+          "Communication, decisions and leadership",
+          "Time, stress and emotional intelligence"
+        ]
+      },
+      {
+        "title": "Online Internship",
+        "topics": [
+          "40-hour internship assignment"
+        ]
+      }
+    ],
+    "image": "3-1024x585.jpeg",
+    "skills": [
+      "Accounting fundamentals and company setup",
+      "Banking, reports, security and data",
+      "Inventory, orders and cost centres",
+      "GST, TDS and financial-year changes",
+      "Multicurrency and interest",
+      "Job work and advanced banking"
+    ]
+  },
+  {
+    "id": "16",
+    "path": "/courses/tally-certification-with-gst-simulation/",
+    "source": "https://abhinavsirca.in/courses/tally-certification-with-gst-simulation/",
+    "type": "course",
+    "title": "Tally Certification with GST Simulation",
+    "category": "Tally & GST",
+    "level": "Practical",
+    "description": "Practise GST registration, invoice uploads, e-way bills, e-invoicing and returns in a simulated compliance environment.",
+    "modules": [
+      {
+        "title": "GST Simulation",
+        "topics": [
+          "Registration workflows",
+          "Uploading invoices",
+          "E-way bills and e-invoicing",
+          "GSTR-1 and return practice"
+        ]
+      },
+      {
+        "title": "Course Pathways",
+        "topics": [
+          "TallyEssential Level 3",
+          "TallyProfessional",
+          "TallyComprehensive",
+          "GST using TallyPrime"
+        ]
+      }
+    ],
+    "image": "3-1024x585.jpeg",
+    "skills": [
+      "Registration workflows",
+      "Uploading invoices",
+      "E-way bills and e-invoicing",
+      "GSTR-1 and return practice",
+      "TallyEssential Level 3",
+      "TallyProfessional"
+    ]
+  },
+  {
+    "id": "17",
+    "path": "/courses/complete-guide-to-payroll-income-tax/",
+    "source": "https://abhinavsirca.in/courses/complete-guide-to-payroll-income-tax/",
+    "type": "course",
+    "title": "Complete Guide to Payroll & Income Tax",
+    "category": "Tally & GST",
+    "level": "Specialist",
+    "description": "Learn salary setup, payroll processing, income-tax calculations and statutory deductions in TallyPrime.",
+    "modules": [
+      {
+        "title": "Payroll and Income Tax",
+        "topics": [
+          "Payroll introduction and masters",
+          "Primary and statutory pay heads",
+          "Salary definitions",
+          "Income-tax masters and configuration",
+          "Payroll processing with tax",
+          "Payroll and statutory reports"
+        ]
+      }
+    ],
+    "image": "3-1024x585.jpeg",
+    "skills": [
+      "Payroll introduction and masters",
+      "Primary and statutory pay heads",
+      "Salary definitions",
+      "Income-tax masters and configuration",
+      "Payroll processing with tax",
+      "Payroll and statutory reports"
+    ]
+  },
+  {
+    "id": "18",
+    "path": "/courses/complete-guide-to-inventory-management/",
+    "source": "https://abhinavsirca.in/courses/complete-guide-to-inventory-management/",
+    "type": "course",
+    "title": "Complete Guide to Inventory Management",
+    "category": "Tally & GST",
+    "level": "Specialist",
+    "description": "Work with stocks, batches, purchase and sales orders, warehouses and manufacturing through practical TallyPrime exercises.",
+    "modules": [
+      {
+        "title": "Storage and Classification of Inventory",
+        "topics": [
+          "Masters and batch movements",
+          "Price lists"
+        ]
+      },
+      {
+        "title": "Purchase and Sales Orders",
+        "topics": [
+          "Order processing and outstanding orders",
+          "Reorder levels and godown transfers"
+        ]
+      },
+      {
+        "title": "Additional Purchase Costs",
+        "topics": [
+          "Transaction configuration"
+        ]
+      },
+      {
+        "title": "Manufacturing and Job Work",
+        "topics": [
+          "Inward and outward job-work orders",
+          "Material transfers"
+        ]
+      },
+      {
+        "title": "Job Costing",
+        "topics": [
+          "Documents and activation",
+          "Chart of accounts, transactions and reports"
+        ]
+      }
+    ],
+    "image": "3-1024x585.jpeg",
+    "skills": [
+      "Masters and batch movements",
+      "Price lists",
+      "Order processing and outstanding orders",
+      "Reorder levels and godown transfers",
+      "Transaction configuration",
+      "Inward and outward job-work orders"
+    ]
+  },
+  {
+    "id": "19",
+    "path": "/courses/tallyessential/",
+    "source": "https://abhinavsirca.in/courses/tallyessential/",
+    "type": "course",
+    "title": "TallyEssential",
+    "category": "Tally & GST",
+    "level": "Beginner",
+    "description": "A three-level accounting certification covering TallyPrime fundamentals, inventory, GST, TDS and business reporting.",
+    "modules": [
+      {
+        "title": "Level 1 — 35 hours",
+        "topics": [
+          "Accounting fundamentals and company setup",
+          "Chart of accounts and vouchers",
+          "Banking and financial statements",
+          "Security and data management",
+          "Basic GST"
+        ]
+      },
+      {
+        "title": "Level 2 — 35 hours",
+        "topics": [
+          "Inventory and warehouses",
+          "Receivables and payables",
+          "Purchase and sales cycles",
+          "Cost centres and budgets",
+          "GST and e-way bills"
+        ]
+      },
+      {
+        "title": "Level 3 — 36 hours",
+        "topics": [
+          "Advanced GST",
+          "TDS setup, transactions and reports",
+          "Data export, import and ODBC",
+          "Financial-year splitting and grouping"
+        ]
+      },
+      {
+        "title": "GST Simulation",
+        "topics": [
+          "Returns, e-way bills and e-invoices"
+        ]
+      }
+    ],
+    "image": "3-1024x585.jpeg",
+    "skills": [
+      "Accounting fundamentals and company setup",
+      "Chart of accounts and vouchers",
+      "Banking and financial statements",
+      "Security and data management",
+      "Basic GST",
+      "Inventory and warehouses"
+    ]
+  },
+  {
+    "id": "21",
+    "path": "/courses/tallyprofessional/",
+    "source": "https://abhinavsirca.in/courses/tallyprofessional/",
+    "type": "course",
+    "title": "TallyProfessional",
+    "category": "Tally & GST",
+    "level": "Advanced",
+    "description": "Extend your accounting knowledge with advanced TallyPrime workflows, statutory compliance, payroll and connected services.",
+    "modules": [
+      {
+        "title": "Advanced Business Accounting",
+        "topics": [
+          "Multicurrency and interest",
+          "Job work and job costing",
+          "Advanced banking",
+          "Tally.NET and synchronization"
+        ]
+      },
+      {
+        "title": "Advanced Tax and Payroll",
+        "topics": [
+          "Advanced GST and returns",
+          "Advanced TDS, non-residents and TRACES",
+          "TCS and form 27EQ",
+          "Payroll, income tax, PF and ESI"
+        ]
+      },
+      {
+        "title": "GST Simulation",
+        "topics": [
+          "Returns, e-way bills and e-invoices"
+        ]
+      }
+    ],
+    "image": "3-1024x585.jpeg",
+    "skills": [
+      "Multicurrency and interest",
+      "Job work and job costing",
+      "Advanced banking",
+      "Tally.NET and synchronization",
+      "Advanced GST and returns",
+      "Advanced TDS, non-residents and TRACES"
+    ]
+  },
+  {
+    "id": "22",
+    "path": "/courses/tally-certification-with-online-internship-2/",
+    "source": "https://abhinavsirca.in/courses/tally-certification-with-online-internship-2/",
+    "type": "course",
+    "title": "Tally Certification with Online Internship",
+    "category": "Tally & GST",
+    "level": "Practical",
+    "description": "Connect accounting concepts with practical work using Tally and online internship options.",
+    "modules": [
+      {
+        "title": "Internship Pathways",
+        "topics": [
+          "TallyEssential Level 1",
+          "TallyEssential Level 2",
+          "TallyEssential Level 3",
+          "TallyEssential Comprehensive"
+        ]
+      },
+      {
+        "title": "Practical Focus",
+        "topics": [
+          "Applied accounting",
+          "Conceptual understanding",
+          "Workplace readiness"
+        ]
+      }
+    ],
+    "image": "3-1024x585.jpeg",
+    "skills": [
+      "TallyEssential Level 1",
+      "TallyEssential Level 2",
+      "TallyEssential Level 3",
+      "TallyEssential Comprehensive",
+      "Applied accounting",
+      "Conceptual understanding"
+    ]
+  },
+  {
+    "id": "23",
+    "path": "/courses/gst-using-tallyprime/",
+    "source": "https://abhinavsirca.in/courses/gst-using-tallyprime/",
+    "type": "course",
+    "title": "GST using TallyPrime",
+    "category": "Tally & GST",
+    "level": "Specialist",
+    "description": "Study Indian GST concepts and apply them through transaction recording, compliance and return workflows in TallyPrime.",
+    "modules": [
+      {
+        "title": "GST Fundamentals",
+        "topics": [
+          "Invoices and e-way bills",
+          "Tax calculation and transactions",
+          "Input credit, adjustment and payment",
+          "Regular and composition dealers",
+          "QRMP and filing"
+        ]
+      },
+      {
+        "title": "Advanced GST",
+        "topics": [
+          "Domestic and interstate supplies",
+          "SEZ, exports and reverse charge",
+          "Mixed, composite and exempt supplies",
+          "Advances, credit reversal and electronic returns"
+        ]
+      },
+      {
+        "title": "GST Simulation",
+        "topics": [
+          "Practical returns",
+          "E-way bills and e-invoices"
+        ]
+      }
+    ],
+    "image": "3-1024x585.jpeg",
+    "skills": [
+      "Invoices and e-way bills",
+      "Tax calculation and transactions",
+      "Input credit, adjustment and payment",
+      "Regular and composition dealers",
+      "QRMP and filing",
+      "Domestic and interstate supplies"
+    ]
+  },
+  {
+    "id": "24",
+    "path": "/courses/tds-using-tally/",
+    "source": "https://abhinavsirca.in/courses/tds-using-tally/",
+    "type": "course",
+    "title": "TDS using Tally",
+    "category": "Tally & GST",
+    "level": "Specialist",
+    "description": "Apply withholding-tax concepts to accounting transactions, government payments, challans and statutory reports.",
+    "modules": [
+      {
+        "title": "TDS Fundamentals",
+        "topics": [
+          "Introduction and capital transactions"
+        ]
+      },
+      {
+        "title": "Configuration",
+        "topics": [
+          "Activation, masters, groups and ledgers"
+        ]
+      },
+      {
+        "title": "TDS Transactions",
+        "topics": [
+          "Expenses and multiple deductions",
+          "Advanced expenses and reversals",
+          "Works contracts and interest"
+        ]
+      },
+      {
+        "title": "Payments and Reports",
+        "topics": [
+          "Government payments",
+          "ITNS 281 challans",
+          "Electronic forms 26Q and 27Q"
+        ]
+      }
+    ],
+    "image": "3-1024x585.jpeg",
+    "skills": [
+      "Introduction and capital transactions",
+      "Activation, masters, groups and ledgers",
+      "Expenses and multiple deductions",
+      "Advanced expenses and reversals",
+      "Works contracts and interest",
+      "Government payments"
+    ]
+  },
+  {
+    "id": "25",
+    "path": "/courses/gcc-vat-using-tallyprime/",
+    "source": "https://abhinavsirca.in/courses/gcc-vat-using-tallyprime/",
+    "type": "course",
+    "title": "GCC VAT using TallyPrime",
+    "category": "Tally & GST",
+    "level": "International",
+    "description": "Apply GCC VAT to purchases, sales, cross-border transactions and returns using TallyPrime.",
+    "modules": [
+      {
+        "title": "VAT Fundamentals",
+        "topics": [
+          "VAT concepts and activation",
+          "Advance receipts"
+        ]
+      },
+      {
+        "title": "VAT Transactions",
+        "topics": [
+          "Purchases and sales",
+          "Intra-GCC and inter-GCC supplies"
+        ]
+      },
+      {
+        "title": "Advanced Transactions",
+        "topics": [
+          "Returns, imports and exports",
+          "Tax-inclusive supplies",
+          "Profit-margin transactions"
+        ]
+      },
+      {
+        "title": "Invoicing and Filing",
+        "topics": [
+          "Invoice printing",
+          "Tax authority payments",
+          "Return filing"
+        ]
+      }
+    ],
+    "image": "3-1024x585.jpeg",
+    "skills": [
+      "VAT concepts and activation",
+      "Advance receipts",
+      "Purchases and sales",
+      "Intra-GCC and inter-GCC supplies",
+      "Returns, imports and exports",
+      "Tax-inclusive supplies"
+    ]
+  },
+  {
+    "id": "27",
+    "path": "/courses/tallyessential-international/",
+    "source": "https://abhinavsirca.in/courses/tallyessential-international/",
+    "type": "course",
+    "title": "TallyEssential International",
+    "category": "Tally & GST",
+    "level": "International",
+    "description": "Build accounting and TallyPrime skills for Middle-East businesses, including domestic and cross-border GCC VAT.",
+    "modules": [
+      {
+        "title": "Accounting Foundations",
+        "topics": [
+          "Accounting systems and theory",
+          "Accrual and cash accounting",
+          "Statements and inventory"
+        ]
+      },
+      {
+        "title": "TallyPrime Setup",
+        "topics": [
+          "Installation and licences",
+          "Masters and chart of accounts",
+          "Accounting and inventory vouchers"
+        ]
+      },
+      {
+        "title": "Business Management",
+        "topics": [
+          "Receivables and payables",
+          "Cost centres and categories",
+          "Purchase and sales orders"
+        ]
+      },
+      {
+        "title": "Reporting and Data",
+        "topics": [
+          "Final accounts and MIS",
+          "Security and TallyVault",
+          "Backup, restore and repair"
+        ]
+      },
+      {
+        "title": "GCC VAT",
+        "topics": [
+          "Calculations and transactions",
+          "Invoices, payments and reports"
+        ]
+      }
+    ],
+    "image": "3-1024x585.jpeg",
+    "skills": [
+      "Accounting systems and theory",
+      "Accrual and cash accounting",
+      "Statements and inventory",
+      "Installation and licences",
+      "Masters and chart of accounts",
+      "Accounting and inventory vouchers"
+    ]
+  },
+  {
+    "id": "28",
+    "path": "/courses/tallyace-international/",
+    "source": "https://abhinavsirca.in/courses/tallyace-international/",
+    "type": "course",
+    "title": "TallyACE International",
+    "category": "Tally & GST",
+    "level": "Beginner",
+    "description": "Learn everyday accounting in TallyPrime through practical cases for Middle-East learners.",
+    "modules": [
+      {
+        "title": "Accounting Fundamentals",
+        "topics": [
+          "Double entry and golden rules"
+        ]
+      },
+      {
+        "title": "Chart of Accounts",
+        "topics": [
+          "Ledgers and groups"
+        ]
+      },
+      {
+        "title": "Inventory Masters",
+        "topics": [
+          "Units, groups and categories",
+          "Godowns"
+        ]
+      },
+      {
+        "title": "Everyday Transactions",
+        "topics": [
+          "Receipts, contra and payments",
+          "Purchases, sales, notes and journals"
+        ]
+      },
+      {
+        "title": "Receivables and Payables",
+        "topics": [
+          "Bill references and settlements",
+          "Credit limits"
+        ]
+      },
+      {
+        "title": "Financial Reporting",
+        "topics": [
+          "Trial balance, balance sheet and profit/loss",
+          "Cash flow, ratios and registers",
+          "Inventory and MIS"
+        ]
+      }
+    ],
+    "image": "3-1024x585.jpeg",
+    "skills": [
+      "Double entry and golden rules",
+      "Ledgers and groups",
+      "Units, groups and categories",
+      "Godowns",
+      "Receipts, contra and payments",
+      "Purchases, sales, notes and journals"
+    ]
+  },
+  {
+    "id": "29",
+    "path": "/courses/tallyessential-oman/",
+    "source": "https://abhinavsirca.in/courses/tallyessential-oman/",
+    "type": "course",
+    "title": "TallyEssential Oman",
+    "category": "Tally & GST",
+    "level": "International",
+    "description": "Explore accounting, business management and GCC VAT through three TallyPrime learning levels designed for Oman.",
+    "modules": [
+      {
+        "title": "Level 1",
+        "topics": [
+          "Accounting theory, standards and records",
+          "TallyPrime setup and chart of accounts",
+          "Transactions and bank reconciliation",
+          "Final accounts and MIS"
+        ]
+      },
+      {
+        "title": "Level 2",
+        "topics": [
+          "Receivables, payables and credit limits",
+          "Cost centres and orders",
+          "Data security and TallyVault",
+          "Backup, restore and repair"
+        ]
+      },
+      {
+        "title": "Level 3",
+        "topics": [
+          "GCC VAT and supply types",
+          "Domestic and intra-GCC transactions",
+          "Reverse charge and tax-inclusive amounts",
+          "English, Arabic and bilingual invoices",
+          "Payments, reconciliation and filing"
+        ]
+      }
+    ],
+    "image": "3-1024x585.jpeg",
+    "skills": [
+      "Accounting theory, standards and records",
+      "TallyPrime setup and chart of accounts",
+      "Transactions and bank reconciliation",
+      "Final accounts and MIS",
+      "Receivables, payables and credit limits",
+      "Cost centres and orders"
+    ]
+  },
+  {
+    "id": "30",
+    "path": "/courses/acca/",
+    "source": "https://abhinavsirca.in/courses/acca/",
+    "type": "course",
+    "title": "ACCA",
+    "category": "Global Accounting",
+    "level": "Professional",
+    "description": "Explore a globally focused accountancy pathway spanning business, finance, reporting, audit, taxation and strategic leadership.",
+    "modules": [
+      {
+        "title": "Applied Knowledge",
+        "topics": [
+          "Business and Technology — BT",
+          "Management Accounting — MA",
+          "Financial Accounting — FA"
+        ]
+      },
+      {
+        "title": "Applied Skills",
+        "topics": [
+          "Corporate and Business Law — LW",
+          "Performance Management — PM",
+          "Taxation — TX",
+          "Financial Reporting — FR",
+          "Audit and Assurance — AA",
+          "Financial Management — FM"
+        ]
+      },
+      {
+        "title": "Strategic Professional — Essentials",
+        "topics": [
+          "Strategic Business Leader — SBL",
+          "Strategic Business Reporting — SBR"
+        ]
+      },
+      {
+        "title": "Strategic Professional — Options",
+        "topics": [
+          "Advanced Financial Management — AFM",
+          "Advanced Performance Management — APM",
+          "Advanced Taxation — ATX",
+          "Advanced Audit and Assurance — AAA",
+          "Choose two options"
+        ]
+      }
+    ],
+    "image": "3-1024x585.jpeg",
+    "skills": [
+      "Business and Technology",
+      "Management Accounting",
+      "Financial Accounting",
+      "Corporate and Business Law",
+      "Performance Management",
+      "Taxation"
+    ]
+  },
+  {
+    "id": "31",
+    "path": "/courses/clat/",
+    "source": "https://abhinavsirca.in/courses/clat/",
+    "type": "course",
+    "title": "CLAT",
+    "category": "Entrance Exams",
+    "level": "Entrance",
+    "description": "Prepare for law entrance through English, current affairs, legal reasoning, logical reasoning and quantitative practice.",
+    "modules": [
+      {
+        "title": "English",
+        "topics": [
+          "Comprehension and vocabulary",
+          "Grammar"
+        ]
+      },
+      {
+        "title": "Current Affairs",
+        "topics": [
+          "Current and static general knowledge"
+        ]
+      },
+      {
+        "title": "Legal Reasoning",
+        "topics": [
+          "Legal propositions and cases",
+          "Contracts and torts"
+        ]
+      },
+      {
+        "title": "Logical Reasoning",
+        "topics": [
+          "Arguments, puzzles and logic"
+        ]
+      },
+      {
+        "title": "Quantitative Techniques",
+        "topics": [
+          "Arithmetic and algebra",
+          "Geometry and data interpretation",
+          "Probability and mensuration"
+        ]
+      }
+    ],
+    "image": "clat-590x370.jpg",
+    "skills": [
+      "Comprehension and vocabulary",
+      "Grammar",
+      "Current and static general knowledge",
+      "Legal propositions and cases",
+      "Contracts and torts",
+      "Arguments, puzzles and logic"
+    ]
+  },
+  {
+    "id": "32",
+    "path": "/courses/cuet/",
+    "source": "https://abhinavsirca.in/courses/cuet/",
+    "type": "course",
+    "title": "CUET",
+    "category": "Entrance Exams",
+    "level": "Entrance",
+    "description": "Build a preparation plan across languages, commerce domain subjects and general aptitude for university entrance.",
+    "modules": [
+      {
+        "title": "Language Skills",
+        "topics": [
+          "Comprehension and writing",
+          "Grammar, vocabulary and literature"
+        ]
+      },
+      {
+        "title": "Commerce Domains",
+        "topics": [
+          "Accountancy and financial statements",
+          "Business studies, finance and marketing",
+          "Micro, macro and Indian economics",
+          "Mathematics and statistics"
+        ]
+      },
+      {
+        "title": "General Aptitude",
+        "topics": [
+          "General knowledge and current affairs",
+          "Logical and quantitative reasoning",
+          "Data interpretation and mental aptitude"
+        ]
+      }
+    ],
+    "image": "cuet-590x370.jpg",
+    "skills": [
+      "Comprehension and writing",
+      "Grammar, vocabulary and literature",
+      "Accountancy and financial statements",
+      "Business studies, finance and marketing",
+      "Micro, macro and Indian economics",
+      "Mathematics and statistics"
+    ]
+  },
+  {
+    "id": "33",
+    "path": "/courses/ipmat-coaching/",
+    "source": "https://abhinavsirca.in/courses/ipmat-coaching/",
+    "type": "course",
+    "title": "IPMAT",
+    "category": "Entrance Exams",
+    "level": "Entrance",
+    "description": "Prepare for integrated management admission with quantitative ability, verbal skills and institute-specific reasoning practice.",
+    "modules": [
+      {
+        "title": "Quantitative Ability",
+        "topics": [
+          "Number systems and arithmetic",
+          "Algebra, geometry and trigonometry",
+          "Combinatorics, probability and sets",
+          "Matrices, progressions and data interpretation"
+        ]
+      },
+      {
+        "title": "Verbal Ability",
+        "topics": [
+          "Vocabulary and grammar",
+          "Comprehension and verbal reasoning"
+        ]
+      },
+      {
+        "title": "Variant-specific Reasoning",
+        "topics": [
+          "Seating, relations and directions",
+          "Codes, series and input-output",
+          "Calendars and Venn diagrams"
+        ]
+      }
+    ],
+    "image": "IPMAT.png",
+    "skills": [
+      "Number systems and arithmetic",
+      "Algebra, geometry and trigonometry",
+      "Combinatorics, probability and sets",
+      "Matrices, progressions and data interpretation",
+      "Vocabulary and grammar",
+      "Comprehension and verbal reasoning"
+    ]
+  },
+  {
+    "id": "34",
+    "path": "/courses/ugc-net-coaching/",
+    "source": "https://abhinavsirca.in/courses/ugc-net-coaching/",
+    "type": "course",
+    "title": "UGC-NET",
+    "category": "Teaching & Research",
+    "level": "Postgraduate",
+    "description": "Strengthen teaching and research aptitude alongside your postgraduate subject knowledge for UGC-NET preparation.",
+    "modules": [
+      {
+        "title": "Paper 1",
+        "topics": [
+          "Teaching and research aptitude",
+          "Comprehension and communication",
+          "Mathematical, formal and Indian logic",
+          "Data interpretation and ICT",
+          "Development, environment and higher education"
+        ]
+      },
+      {
+        "title": "Paper 2",
+        "topics": [
+          "Postgraduate subject knowledge",
+          "Commerce, English, politics and history",
+          "Psychology, chemistry, sociology and law"
+        ]
+      }
+    ],
+    "image": "UGC-NET.png",
+    "skills": [
+      "Teaching and research aptitude",
+      "Comprehension and communication",
+      "Mathematical, formal and Indian logic",
+      "Data interpretation and ICT",
+      "Development, environment and higher education",
+      "Postgraduate subject knowledge"
+    ]
+  },
+  {
+    "id": "35",
+    "path": "/courses/foreign-courses/",
+    "source": "https://abhinavsirca.in/courses/foreign-courses/",
+    "type": "foreign",
+    "title": "Foreign Courses",
+    "description": "Explore international accounting and finance qualifications. Talk to our team about a pathway that suits your goals.",
+    "category": "Other Courses",
+    "image": "abhinavsirca-students.jpg"
+  },
+  {
+    "id": "36",
+    "path": "/courses/universitry-courses/",
+    "source": "https://abhinavsirca.in/courses/universitry-courses/",
+    "type": "university",
+    "title": "University Courses",
+    "description": "Find guidance for your university studies. Connect with our team to discuss available learning options.",
+    "category": "Other Courses",
+    "image": "abhinavsirca-students.jpg"
+  },
+  {
+    "id": "37",
+    "path": "/about-abhinavsirca/",
+    "source": "https://abhinavsirca.in/about-abhinavsirca/",
+    "type": "about",
+    "title": "About ASCA",
+    "description": "Professional education, personal guidance. A Moradabad institution established in 2002 and a unit of ISSEDU.",
+    "category": "About",
+    "image": "abhinavsirca-students.jpg"
+  }
+]

@@ -1,0 +1,3364 @@
+[
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/10/logo.jpg",
+    "filename": "logo.jpg",
+    "local_path": "public/assets/logo.jpg",
+    "bytes": 194687,
+    "dimensions": [
+      1490,
+      872
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/abhinavsirca-chartered-accountancy-coaching/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/abhinavsirca-chartered-accountancy-coaching/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/abhinavsirca-chartered-accountancy-coaching/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/abhinavsirca-chartered-accountancy-coaching/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/abhinavsirca-chartered-accountancy-coaching/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/abhinavsirca-chartered-accountancy-coaching/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ca-foundation/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ca-foundation/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ca-foundation/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ca-foundation/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ca-foundation/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ca-foundation/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ca-intermediate-coaching/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ca-intermediate-coaching/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ca-intermediate-coaching/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ca-intermediate-coaching/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ca-intermediate-coaching/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ca-intermediate-coaching/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/abhinasirca-ca-final-coaching/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/abhinasirca-ca-final-coaching/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/abhinasirca-ca-final-coaching/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/abhinasirca-ca-final-coaching/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/abhinasirca-ca-final-coaching/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/abhinasirca-ca-final-coaching/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/company-secretarycs/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/company-secretarycs/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/company-secretarycs/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/company-secretarycs/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/company-secretarycs/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/company-secretarycs/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/csset-coaching/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/csset-coaching/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/csset-coaching/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/csset-coaching/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/csset-coaching/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/csset-coaching/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ca-executive-coaching/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ca-executive-coaching/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ca-executive-coaching/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ca-executive-coaching/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ca-executive-coaching/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ca-executive-coaching/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/cs-professional/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/cs-professional/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/cs-professional/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/cs-professional/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/cs-professional/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/cs-professional/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/cost-and-management-accountant-cma/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/cost-and-management-accountant-cma/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/cost-and-management-accountant-cma/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/cost-and-management-accountant-cma/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/cost-and-management-accountant-cma/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/cost-and-management-accountant-cma/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/cma-foundation/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/cma-foundation/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/cma-foundation/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/cma-foundation/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/cma-foundation/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/cma-foundation/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-certification-with-online-internship/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-certification-with-online-internship/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-certification-with-online-internship/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-certification-with-online-internship/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-certification-with-online-internship/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-certification-with-online-internship/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/master-accountant-using-tally/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/master-accountant-using-tally/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/master-accountant-using-tally/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/master-accountant-using-tally/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/master-accountant-using-tally/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/master-accountant-using-tally/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-certification-with-gst-simulation/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-certification-with-gst-simulation/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-certification-with-gst-simulation/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-certification-with-gst-simulation/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-certification-with-gst-simulation/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-certification-with-gst-simulation/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/complete-guide-to-payroll-income-tax/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/complete-guide-to-payroll-income-tax/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/complete-guide-to-payroll-income-tax/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/complete-guide-to-payroll-income-tax/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/complete-guide-to-payroll-income-tax/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/complete-guide-to-payroll-income-tax/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/complete-guide-to-inventory-management/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/complete-guide-to-inventory-management/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/complete-guide-to-inventory-management/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/complete-guide-to-inventory-management/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/complete-guide-to-inventory-management/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/complete-guide-to-inventory-management/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyessential/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyessential/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyessential/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyessential/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyessential/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyessential/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyprofessional/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyprofessional/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyprofessional/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyprofessional/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyprofessional/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyprofessional/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-certification-with-online-internship-2/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-certification-with-online-internship-2/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-certification-with-online-internship-2/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-certification-with-online-internship-2/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-certification-with-online-internship-2/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-certification-with-online-internship-2/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/gst-using-tallyprime/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/gst-using-tallyprime/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/gst-using-tallyprime/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/gst-using-tallyprime/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/gst-using-tallyprime/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/gst-using-tallyprime/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tds-using-tally/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tds-using-tally/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tds-using-tally/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tds-using-tally/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tds-using-tally/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tds-using-tally/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/gcc-vat-using-tallyprime/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/gcc-vat-using-tallyprime/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/gcc-vat-using-tallyprime/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/gcc-vat-using-tallyprime/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/gcc-vat-using-tallyprime/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/gcc-vat-using-tallyprime/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyessential-international/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyessential-international/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyessential-international/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyessential-international/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyessential-international/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyessential-international/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyace-international/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyace-international/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyace-international/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyace-international/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyace-international/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyace-international/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyessential-oman/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyessential-oman/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyessential-oman/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyessential-oman/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyessential-oman/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyessential-oman/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/acca/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/acca/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/acca/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/acca/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/acca/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/acca/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/clat/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/clat/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/clat/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/clat/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/clat/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/clat/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/cuet/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/cuet/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/cuet/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/cuet/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/cuet/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/cuet/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ipmat-coaching/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ipmat-coaching/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ipmat-coaching/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ipmat-coaching/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ipmat-coaching/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ipmat-coaching/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ugc-net-coaching/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ugc-net-coaching/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ugc-net-coaching/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ugc-net-coaching/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ugc-net-coaching/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ugc-net-coaching/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/foreign-courses/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/foreign-courses/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/foreign-courses/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/foreign-courses/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/foreign-courses/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/foreign-courses/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/universitry-courses/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/universitry-courses/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/universitry-courses/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/universitry-courses/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/universitry-courses/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/universitry-courses/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": "Abhinavsirca-Logo"
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": "abhinavsirca.in"
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": "abhinavsirca.in"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/elementor/thumbs/with-bg-01-scaled-rdv40fb2vrn9w7f3zudobxguuvo68cojyr22ixvnok.png",
+    "filename": "with-bg-01-scaled-rdv40fb2vrn9w7f3zudobxguuvo68cojyr22ixvnok.png",
+    "local_path": "public/assets/with-bg-01-scaled-rdv40fb2vrn9w7f3zudobxguuvo68cojyr22ixvnok.png",
+    "bytes": 13324,
+    "dimensions": [
+      106,
+      106
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/abhinavsirca-chartered-accountancy-coaching/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ca-foundation/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ca-intermediate-coaching/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/abhinasirca-ca-final-coaching/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/company-secretarycs/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/csset-coaching/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ca-executive-coaching/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/cs-professional/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/cost-and-management-accountant-cma/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/cma-foundation/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-certification-with-online-internship/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/master-accountant-using-tally/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-certification-with-gst-simulation/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/complete-guide-to-payroll-income-tax/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/complete-guide-to-inventory-management/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyessential/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyprofessional/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-certification-with-online-internship-2/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/gst-using-tallyprime/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tds-using-tally/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/gcc-vat-using-tallyprime/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyessential-international/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyace-international/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyessential-oman/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/acca/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/clat/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/cuet/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ipmat-coaching/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ugc-net-coaching/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/foreign-courses/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/universitry-courses/",
+        "alt": "with bg-01"
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": "with bg-01"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/1000683388.jpg",
+    "filename": "1000683388.jpg",
+    "local_path": "public/assets/1000683388.jpg",
+    "bytes": 141175,
+    "dimensions": [
+      1280,
+      720
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "1000683388"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/1000685509.jpg",
+    "filename": "1000685509.jpg",
+    "local_path": "public/assets/1000685509.jpg",
+    "bytes": 159149,
+    "dimensions": [
+      1600,
+      900
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "1000685509"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/1000683386.jpg",
+    "filename": "1000683386.jpg",
+    "local_path": "public/assets/1000683386.jpg",
+    "bytes": 133273,
+    "dimensions": [
+      1280,
+      720
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "1000683386"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/1000686301.jpg",
+    "filename": "1000686301.jpg",
+    "local_path": "public/assets/1000686301.jpg",
+    "bytes": 121248,
+    "dimensions": [
+      1280,
+      720
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "1000686301"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/12/1000686300.jpg",
+    "filename": "1000686300.jpg",
+    "local_path": "public/assets/1000686300.jpg",
+    "bytes": 136373,
+    "dimensions": [
+      1280,
+      720
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "1000686300"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/ca-Foundation.png",
+    "filename": "ca-Foundation.png",
+    "local_path": "public/assets/ca-Foundation.png",
+    "bytes": 13982,
+    "dimensions": [
+      206,
+      120
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/abhinavsirca-chartered-accountancy-coaching/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/abhinavsirca-chartered-accountancy-coaching/",
+        "alt": "ca-Foundation"
+      },
+      {
+        "page": "https://abhinavsirca.in/abhinavsirca-chartered-accountancy-coaching/",
+        "alt": "ca-Foundation"
+      },
+      {
+        "page": "https://abhinavsirca.in/abhinavsirca-chartered-accountancy-coaching/",
+        "alt": "ca-Foundation"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ca-foundation/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ca-intermediate-coaching/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/abhinasirca-ca-final-coaching/",
+        "alt": ""
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/cs-professional.jpg",
+    "filename": "cs-professional.jpg",
+    "local_path": "public/assets/cs-professional.jpg",
+    "bytes": 4121,
+    "dimensions": [
+      120,
+      120
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/company-secretarycs/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/company-secretarycs/",
+        "alt": "cs-professional"
+      },
+      {
+        "page": "https://abhinavsirca.in/company-secretarycs/",
+        "alt": "cs-professional"
+      },
+      {
+        "page": "https://abhinavsirca.in/company-secretarycs/",
+        "alt": "cs-professional"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/csset-coaching/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ca-executive-coaching/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/cs-professional/",
+        "alt": ""
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/CMA-foundation.jpg",
+    "filename": "CMA-foundation.jpg",
+    "local_path": "public/assets/CMA-foundation.jpg",
+    "bytes": 7350,
+    "dimensions": [
+      273,
+      122
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/cost-and-management-accountant-cma/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/cost-and-management-accountant-cma/",
+        "alt": "CMA-foundation"
+      },
+      {
+        "page": "https://abhinavsirca.in/cost-and-management-accountant-cma/",
+        "alt": "CMA-foundation"
+      },
+      {
+        "page": "https://abhinavsirca.in/cost-and-management-accountant-cma/",
+        "alt": "CMA-foundation"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/cma-foundation/",
+        "alt": ""
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/12/tally.png",
+    "filename": "tally.png",
+    "local_path": "public/assets/tally.png",
+    "bytes": 4091,
+    "dimensions": [
+      324,
+      148
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "tally"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "tally"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "tally"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "tally"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "tally"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "tally"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "tally"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "tally"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "tally"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "tally"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "tally"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "tally"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "tally"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "tally"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "tally"
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-certification-with-online-internship/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/master-accountant-using-tally/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-certification-with-gst-simulation/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/complete-guide-to-payroll-income-tax/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/complete-guide-to-inventory-management/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyessential/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyprofessional/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-certification-with-online-internship-2/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/gst-using-tallyprime/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tds-using-tally/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/gcc-vat-using-tallyprime/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyessential-international/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyace-international/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyessential-oman/",
+        "alt": ""
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/12/abhinavsirca-students-1024x585.jpg",
+    "filename": "abhinavsirca-students-1024x585.jpg",
+    "local_path": "public/assets/abhinavsirca-students-1024x585.jpg",
+    "bytes": 57225,
+    "dimensions": [
+      1024,
+      585
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": ""
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/12/close-up-students-indoors-1024x763.jpg",
+    "filename": "close-up-students-indoors-1024x763.jpg",
+    "local_path": "public/assets/close-up-students-indoors-1024x763.jpg",
+    "bytes": 86866,
+    "dimensions": [
+      1024,
+      763
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": ""
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/12/freepik__the-style-is-candid-image-photography-with-natural__61734-e1766567570283.jpeg",
+    "filename": "freepik__the-style-is-candid-image-photography-with-natural__61734-e1766567570283.jpeg",
+    "local_path": "public/assets/freepik__the-style-is-candid-image-photography-with-natural__61734-e1766567570283.jpeg",
+    "bytes": 85971,
+    "dimensions": [
+      704,
+      995
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": ""
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2026/03/what-after-XII-Commerce-CA-CS-CMA-e1773472143415.jpg",
+    "filename": "what-after-XII-Commerce-CA-CS-CMA-e1773472143415.jpg",
+    "local_path": "public/assets/what-after-XII-Commerce-CA-CS-CMA-e1773472143415.jpg",
+    "bytes": 64066,
+    "dimensions": [
+      640,
+      366
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": ""
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/10/issedu-awards.png",
+    "filename": "issedu-awards.png",
+    "local_path": "public/assets/issedu-awards.png",
+    "bytes": 378448,
+    "dimensions": [
+      558,
+      448
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": ""
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/10/Issedu-cert-ficci-Copy-683x1024.png",
+    "filename": "Issedu-cert-ficci-Copy-683x1024.png",
+    "local_path": "public/assets/Issedu-cert-ficci-Copy-683x1024.png",
+    "bytes": 112516,
+    "dimensions": [
+      683,
+      1024
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": ""
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/12/abhinavsirca-rank-holder-1.png",
+    "filename": "abhinavsirca-rank-holder-1.png",
+    "local_path": "public/assets/abhinavsirca-rank-holder-1.png",
+    "bytes": 591447,
+    "dimensions": [
+      1080,
+      1350
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/abhinavsirca-chartered-accountancy-coaching/",
+        "alt": ""
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2026/04/1000057546.jpg",
+    "filename": "1000057546.jpg",
+    "local_path": "public/assets/1000057546.jpg",
+    "bytes": 205804,
+    "dimensions": [
+      1024,
+      1280
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": ""
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/12/abhinavsirca-rank-holder-2.png",
+    "filename": "abhinavsirca-rank-holder-2.png",
+    "local_path": "public/assets/abhinavsirca-rank-holder-2.png",
+    "bytes": 542942,
+    "dimensions": [
+      1080,
+      1350
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/abhinavsirca-chartered-accountancy-coaching/",
+        "alt": ""
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/12/abhinavsirca-rank-holder-3.png",
+    "filename": "abhinavsirca-rank-holder-3.png",
+    "local_path": "public/assets/abhinavsirca-rank-holder-3.png",
+    "bytes": 548685,
+    "dimensions": [
+      1080,
+      1350
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/abhinavsirca-chartered-accountancy-coaching/",
+        "alt": ""
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2026/04/1000057538-768x960.jpg",
+    "filename": "1000057538-768x960.jpg",
+    "local_path": "public/assets/1000057538-768x960.jpg",
+    "bytes": 105439,
+    "dimensions": [
+      768,
+      960
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": ""
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/10/Institute-Of-Systematic-Studies-In-Commerce_Moradabad.gif",
+    "filename": "Institute-Of-Systematic-Studies-In-Commerce_Moradabad.gif",
+    "local_path": "public/assets/Institute-Of-Systematic-Studies-In-Commerce_Moradabad.gif",
+    "bytes": 65300,
+    "dimensions": [
+      500,
+      357
+    ],
+    "format": "GIF",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": ""
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/2024-1-ca-foundation-selection-768x960.png",
+    "filename": "2024-1-ca-foundation-selection-768x960.png",
+    "local_path": "public/assets/2024-1-ca-foundation-selection-768x960.png",
+    "bytes": 257661,
+    "dimensions": [
+      768,
+      960
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "2024-1-ca-foundation-selection"
+      },
+      {
+        "page": "https://abhinavsirca.in/abhinavsirca-chartered-accountancy-coaching/",
+        "alt": "2024-1-ca-foundation-selection"
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": "2024-1-ca-foundation-selection"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/2024-9-cseet-foundation-selection-768x960.png",
+    "filename": "2024-9-cseet-foundation-selection-768x960.png",
+    "local_path": "public/assets/2024-9-cseet-foundation-selection-768x960.png",
+    "bytes": 256717,
+    "dimensions": [
+      768,
+      960
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "2024-9-cseet-foundation-selection"
+      },
+      {
+        "page": "https://abhinavsirca.in/abhinavsirca-chartered-accountancy-coaching/",
+        "alt": "2024-9-cseet-foundation-selection"
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": "2024-9-cseet-foundation-selection"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/2024-8-cseet-foundation-selection-768x960.png",
+    "filename": "2024-8-cseet-foundation-selection-768x960.png",
+    "local_path": "public/assets/2024-8-cseet-foundation-selection-768x960.png",
+    "bytes": 256717,
+    "dimensions": [
+      768,
+      960
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "2024-8-cseet-foundation-selection"
+      },
+      {
+        "page": "https://abhinavsirca.in/abhinavsirca-chartered-accountancy-coaching/",
+        "alt": "2024-8-cseet-foundation-selection"
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": "2024-8-cseet-foundation-selection"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/2024-7-ca-foundation-selection-768x960.png",
+    "filename": "2024-7-ca-foundation-selection-768x960.png",
+    "local_path": "public/assets/2024-7-ca-foundation-selection-768x960.png",
+    "bytes": 253585,
+    "dimensions": [
+      768,
+      960
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "2024-7-ca-foundation-selection"
+      },
+      {
+        "page": "https://abhinavsirca.in/abhinavsirca-chartered-accountancy-coaching/",
+        "alt": "2024-7-ca-foundation-selection"
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": "2024-7-ca-foundation-selection"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/2024-6-ca-foundation-selection-768x960.png",
+    "filename": "2024-6-ca-foundation-selection-768x960.png",
+    "local_path": "public/assets/2024-6-ca-foundation-selection-768x960.png",
+    "bytes": 248654,
+    "dimensions": [
+      768,
+      960
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "2024-6-ca-foundation-selection"
+      },
+      {
+        "page": "https://abhinavsirca.in/abhinavsirca-chartered-accountancy-coaching/",
+        "alt": "2024-6-ca-foundation-selection"
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": "2024-6-ca-foundation-selection"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/2024-5-ca-foundation-selection-768x960.png",
+    "filename": "2024-5-ca-foundation-selection-768x960.png",
+    "local_path": "public/assets/2024-5-ca-foundation-selection-768x960.png",
+    "bytes": 258147,
+    "dimensions": [
+      768,
+      960
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "2024-5-ca-foundation-selection"
+      },
+      {
+        "page": "https://abhinavsirca.in/abhinavsirca-chartered-accountancy-coaching/",
+        "alt": "2024-5-ca-foundation-selection"
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": "2024-5-ca-foundation-selection"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/2024-4-ca-foundation-selection-768x960.png",
+    "filename": "2024-4-ca-foundation-selection-768x960.png",
+    "local_path": "public/assets/2024-4-ca-foundation-selection-768x960.png",
+    "bytes": 288657,
+    "dimensions": [
+      768,
+      960
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "2024-4-ca-foundation-selection"
+      },
+      {
+        "page": "https://abhinavsirca.in/abhinavsirca-chartered-accountancy-coaching/",
+        "alt": "2024-4-ca-foundation-selection"
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": "2024-4-ca-foundation-selection"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/2024-3-ca-foundation-selection-768x960.png",
+    "filename": "2024-3-ca-foundation-selection-768x960.png",
+    "local_path": "public/assets/2024-3-ca-foundation-selection-768x960.png",
+    "bytes": 279493,
+    "dimensions": [
+      768,
+      960
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "2024-3-ca-foundation-selection"
+      },
+      {
+        "page": "https://abhinavsirca.in/abhinavsirca-chartered-accountancy-coaching/",
+        "alt": "2024-3-ca-foundation-selection"
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": "2024-3-ca-foundation-selection"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/2024-2-ca-selection-768x960.png",
+    "filename": "2024-2-ca-selection-768x960.png",
+    "local_path": "public/assets/2024-2-ca-selection-768x960.png",
+    "bytes": 281316,
+    "dimensions": [
+      768,
+      960
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "2024-2-ca-selection"
+      },
+      {
+        "page": "https://abhinavsirca.in/abhinavsirca-chartered-accountancy-coaching/",
+        "alt": "2024-2-ca-selection"
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": "2024-2-ca-selection"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2024/09/UPST0041.png",
+    "filename": "UPST0041.png",
+    "local_path": "public/assets/UPST0041.png",
+    "bytes": 776,
+    "dimensions": [
+      40,
+      39
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "UPST0041"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2024/09/UPST0040.png",
+    "filename": "UPST0040.png",
+    "local_path": "public/assets/UPST0040.png",
+    "bytes": 689,
+    "dimensions": [
+      74,
+      72
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "UPST0040"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/scholarship-1024x1024.jpg",
+    "filename": "scholarship-1024x1024.jpg",
+    "local_path": "public/assets/scholarship-1024x1024.jpg",
+    "bytes": 160383,
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": ""
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2024/09/UPST0007.png",
+    "filename": "UPST0007.png",
+    "local_path": "public/assets/UPST0007.png",
+    "bytes": 2237,
+    "dimensions": [
+      246,
+      31
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/acca/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": ""
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/elementor/thumbs/CA-Dr-Abhinav-Agarwal-rdv6m20ggg9wtp6bjy0itpodc3nc7b0pn9zzjrbsys.png",
+    "filename": "CA-Dr-Abhinav-Agarwal-rdv6m20ggg9wtp6bjy0itpodc3nc7b0pn9zzjrbsys.png",
+    "local_path": "public/assets/CA-Dr-Abhinav-Agarwal-rdv6m20ggg9wtp6bjy0itpodc3nc7b0pn9zzjrbsys.png",
+    "bytes": 150545,
+    "dimensions": [
+      500,
+      650
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "CA-Dr-Abhinav-Agarwal"
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": "CA-Dr-Abhinav-Agarwal"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/elementor/thumbs/Dr.-RICHA-AGARWAL-rdv6mccojmo2deravkhf352fvc8djz5rcp6btswh2c.png",
+    "filename": "Dr.-RICHA-AGARWAL-rdv6mccojmo2deravkhf352fvc8djz5rcp6btswh2c.png",
+    "local_path": "public/assets/Dr.-RICHA-AGARWAL-rdv6mccojmo2deravkhf352fvc8djz5rcp6btswh2c.png",
+    "bytes": 261336,
+    "dimensions": [
+      500,
+      650
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "Dr.-RICHA-AGARWAL"
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": "Dr.-RICHA-AGARWAL"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/elementor/thumbs/CA-JYOTI-MADAN-rdv6me8cxaqn0mokklao84ld23z3zdd80yhasctopw.jpg",
+    "filename": "CA-JYOTI-MADAN-rdv6me8cxaqn0mokklao84ld23z3zdd80yhasctopw.jpg",
+    "local_path": "public/assets/CA-JYOTI-MADAN-rdv6me8cxaqn0mokklao84ld23z3zdd80yhasctopw.jpg",
+    "bytes": 30279,
+    "dimensions": [
+      500,
+      650
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "CA-JYOTI-MADAN"
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": "CA-JYOTI-MADAN"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/elementor/thumbs/CS-BABUSHA-AGARWAL-rdv6m5rt7sf2450uxzn13oq7pn4t23fmzslxgv689w.png",
+    "filename": "CS-BABUSHA-AGARWAL-rdv6m5rt7sf2450uxzn13oq7pn4t23fmzslxgv689w.png",
+    "local_path": "public/assets/CS-BABUSHA-AGARWAL-rdv6m5rt7sf2450uxzn13oq7pn4t23fmzslxgv689w.png",
+    "bytes": 206852,
+    "dimensions": [
+      500,
+      650
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "CS-BABUSHA-AGARWAL"
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": "CS-BABUSHA-AGARWAL"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/elementor/thumbs/Er.-MANISH-K-SINGH-rdv6m8lbsaix2ywrhiuwt60lhsqwp6qu06kdwp21r8.png",
+    "filename": "Er.-MANISH-K-SINGH-rdv6m8lbsaix2ywrhiuwt60lhsqwp6qu06kdwp21r8.png",
+    "local_path": "public/assets/Er.-MANISH-K-SINGH-rdv6m8lbsaix2ywrhiuwt60lhsqwp6qu06kdwp21r8.png",
+    "bytes": 208367,
+    "dimensions": [
+      500,
+      650
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "Er.-MANISH-K-SINGH"
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": "Er.-MANISH-K-SINGH"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/elementor/thumbs/S-K-Garg-rdv6mah05ylhq6u16jo5y5jiokhn4kyaofvcv8z9es.jpg",
+    "filename": "S-K-Garg-rdv6mah05ylhq6u16jo5y5jiokhn4kyaofvcv8z9es.jpg",
+    "local_path": "public/assets/S-K-Garg-rdv6mah05ylhq6u16jo5y5jiokhn4kyaofvcv8z9es.jpg",
+    "bytes": 36761,
+    "dimensions": [
+      500,
+      650
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "S-K-Garg"
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": "S-K-Garg"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/elementor/thumbs/Dr.-Sarika-Khanna-rdv6m3w4u4chgx3l8ytryp7aive2mp86bjayib90mc.png",
+    "filename": "Dr.-Sarika-Khanna-rdv6m3w4u4chgx3l8ytryp7aive2mp86bjayib90mc.png",
+    "local_path": "public/assets/Dr.-Sarika-Khanna-rdv6m3w4u4chgx3l8ytryp7aive2mp86bjayib90mc.png",
+    "bytes": 213701,
+    "dimensions": [
+      500,
+      650
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "Dr.-Sarika-Khanna"
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": "Dr.-Sarika-Khanna"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/12/IMG-20230305-WA0027.jpg",
+    "filename": "IMG-20230305-WA0027.jpg",
+    "local_path": "public/assets/IMG-20230305-WA0027.jpg",
+    "bytes": 108101,
+    "dimensions": [
+      1080,
+      911
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "IMG-20230305-WA0027"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/12/IMG-20230305-WA0026.jpg",
+    "filename": "IMG-20230305-WA0026.jpg",
+    "local_path": "public/assets/IMG-20230305-WA0026.jpg",
+    "bytes": 107537,
+    "dimensions": [
+      1080,
+      911
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "IMG-20230305-WA0026"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/12/IMG-20230305-WA0025.jpg",
+    "filename": "IMG-20230305-WA0025.jpg",
+    "local_path": "public/assets/IMG-20230305-WA0025.jpg",
+    "bytes": 110157,
+    "dimensions": [
+      1080,
+      911
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "IMG-20230305-WA0025"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/12/IMG-20230305-WA0024.jpg",
+    "filename": "IMG-20230305-WA0024.jpg",
+    "local_path": "public/assets/IMG-20230305-WA0024.jpg",
+    "bytes": 112452,
+    "dimensions": [
+      1080,
+      911
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "IMG-20230305-WA0024"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/12/IMG-20230305-WA0023.jpg",
+    "filename": "IMG-20230305-WA0023.jpg",
+    "local_path": "public/assets/IMG-20230305-WA0023.jpg",
+    "bytes": 112053,
+    "dimensions": [
+      1080,
+      911
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "IMG-20230305-WA0023"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/12/IMG-20230305-WA0022.jpg",
+    "filename": "IMG-20230305-WA0022.jpg",
+    "local_path": "public/assets/IMG-20230305-WA0022.jpg",
+    "bytes": 107355,
+    "dimensions": [
+      1080,
+      911
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "IMG-20230305-WA0022"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/12/IMG-20230305-WA0021.jpg",
+    "filename": "IMG-20230305-WA0021.jpg",
+    "local_path": "public/assets/IMG-20230305-WA0021.jpg",
+    "bytes": 112466,
+    "dimensions": [
+      1080,
+      911
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "IMG-20230305-WA0021"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/12/IMG-20230305-WA0020.jpg",
+    "filename": "IMG-20230305-WA0020.jpg",
+    "local_path": "public/assets/IMG-20230305-WA0020.jpg",
+    "bytes": 106610,
+    "dimensions": [
+      1080,
+      911
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "IMG-20230305-WA0020"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/12/IMG-20230305-WA0019.jpg",
+    "filename": "IMG-20230305-WA0019.jpg",
+    "local_path": "public/assets/IMG-20230305-WA0019.jpg",
+    "bytes": 106738,
+    "dimensions": [
+      1080,
+      911
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "IMG-20230305-WA0019"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/12/IMG-20230305-WA0018.jpg",
+    "filename": "IMG-20230305-WA0018.jpg",
+    "local_path": "public/assets/IMG-20230305-WA0018.jpg",
+    "bytes": 124090,
+    "dimensions": [
+      1080,
+      911
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "IMG-20230305-WA0018"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/12/IMG-20230305-WA0017.jpg",
+    "filename": "IMG-20230305-WA0017.jpg",
+    "local_path": "public/assets/IMG-20230305-WA0017.jpg",
+    "bytes": 126076,
+    "dimensions": [
+      1080,
+      911
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "IMG-20230305-WA0017"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/12/IMG-20230305-WA0016.jpg",
+    "filename": "IMG-20230305-WA0016.jpg",
+    "local_path": "public/assets/IMG-20230305-WA0016.jpg",
+    "bytes": 105366,
+    "dimensions": [
+      1080,
+      911
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "IMG-20230305-WA0016"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/12/IMG-20230305-WA0015.jpg",
+    "filename": "IMG-20230305-WA0015.jpg",
+    "local_path": "public/assets/IMG-20230305-WA0015.jpg",
+    "bytes": 116734,
+    "dimensions": [
+      1080,
+      911
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "IMG-20230305-WA0015"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/12/IMG-20230305-WA0014.jpg",
+    "filename": "IMG-20230305-WA0014.jpg",
+    "local_path": "public/assets/IMG-20230305-WA0014.jpg",
+    "bytes": 113968,
+    "dimensions": [
+      1080,
+      911
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "IMG-20230305-WA0014"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/12/IMG-20230305-WA0013.jpg",
+    "filename": "IMG-20230305-WA0013.jpg",
+    "local_path": "public/assets/IMG-20230305-WA0013.jpg",
+    "bytes": 131351,
+    "dimensions": [
+      1080,
+      911
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": "IMG-20230305-WA0013"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/10/with-bg-01-1024x908.png",
+    "filename": "with-bg-01-1024x908.png",
+    "local_path": "public/assets/with-bg-01-1024x908.png",
+    "bytes": 72151,
+    "dimensions": [
+      1024,
+      908
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": ""
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2024/09/UPST0170.jpg",
+    "filename": "UPST0170.jpg",
+    "local_path": "public/assets/UPST0170.jpg",
+    "bytes": 2903,
+    "dimensions": [
+      150,
+      43
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/abhinavsirca-chartered-accountancy-coaching/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ca-foundation/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ca-intermediate-coaching/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/abhinasirca-ca-final-coaching/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/company-secretarycs/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/csset-coaching/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ca-executive-coaching/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/cs-professional/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/cost-and-management-accountant-cma/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/cma-foundation/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-certification-with-online-internship/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/master-accountant-using-tally/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-certification-with-gst-simulation/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/complete-guide-to-payroll-income-tax/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/complete-guide-to-inventory-management/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyessential/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyprofessional/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tally-certification-with-online-internship-2/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/gst-using-tallyprime/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tds-using-tally/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/gcc-vat-using-tallyprime/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyessential-international/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyace-international/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/tallyessential-oman/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/acca/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/clat/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/cuet/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ipmat-coaching/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ugc-net-coaching/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/foreign-courses/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/universitry-courses/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": ""
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/2023-10-cseet-selection-768x960.png",
+    "filename": "2023-10-cseet-selection-768x960.png",
+    "local_path": "public/assets/2023-10-cseet-selection-768x960.png",
+    "bytes": 228615,
+    "dimensions": [
+      768,
+      960
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/abhinavsirca-chartered-accountancy-coaching/",
+        "alt": "2023-10-cseet-selection"
+      },
+      {
+        "page": "https://abhinavsirca.in/company-secretarycs/",
+        "alt": "2023-10-cseet-selection"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/2023-9-ca-selection-768x960.png",
+    "filename": "2023-9-ca-selection-768x960.png",
+    "local_path": "public/assets/2023-9-ca-selection-768x960.png",
+    "bytes": 233722,
+    "dimensions": [
+      768,
+      960
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/abhinavsirca-chartered-accountancy-coaching/",
+        "alt": "2023-9-ca-selection"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/abhinavsirca-ca-foundation.jpg",
+    "filename": "abhinavsirca-ca-foundation.jpg",
+    "local_path": "public/assets/abhinavsirca-ca-foundation.jpg",
+    "bytes": 218380,
+    "dimensions": [
+      1024,
+      1280
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/ca-foundation/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/ca-intermediate-coaching/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/abhinasirca-ca-final-coaching/",
+        "alt": ""
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/2022-8-cseet-selection-768x960.png",
+    "filename": "2022-8-cseet-selection-768x960.png",
+    "local_path": "public/assets/2022-8-cseet-selection-768x960.png",
+    "bytes": 276499,
+    "dimensions": [
+      768,
+      960
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/company-secretarycs/",
+        "alt": "2022-8-cseet-selection"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/2022-9-ca-selection-768x960.png",
+    "filename": "2022-9-ca-selection-768x960.png",
+    "local_path": "public/assets/2022-9-ca-selection-768x960.png",
+    "bytes": 243261,
+    "dimensions": [
+      768,
+      960
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/company-secretarycs/",
+        "alt": "2022-9-ca-selection"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/issedu-tally-tepl-course-28.jpeg",
+    "filename": "issedu-tally-tepl-course-28.jpeg",
+    "local_path": "public/assets/issedu-tally-tepl-course-28.jpeg",
+    "bytes": 91964,
+    "dimensions": [
+      722,
+      577
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "issedu-tally-tepl-course-28"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/issedu-tally-tepl-course-27.jpeg",
+    "filename": "issedu-tally-tepl-course-27.jpeg",
+    "local_path": "public/assets/issedu-tally-tepl-course-27.jpeg",
+    "bytes": 91289,
+    "dimensions": [
+      722,
+      572
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "issedu-tally-tepl-course-27"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/issedu-tally-tepl-course-25.jpeg",
+    "filename": "issedu-tally-tepl-course-25.jpeg",
+    "local_path": "public/assets/issedu-tally-tepl-course-25.jpeg",
+    "bytes": 94131,
+    "dimensions": [
+      722,
+      573
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "issedu-tally-tepl-course-25"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/issedu-tally-tepl-course-26.jpeg",
+    "filename": "issedu-tally-tepl-course-26.jpeg",
+    "local_path": "public/assets/issedu-tally-tepl-course-26.jpeg",
+    "bytes": 88844,
+    "dimensions": [
+      722,
+      575
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "issedu-tally-tepl-course-26"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/issedu-tally-tepl-course-24.jpeg",
+    "filename": "issedu-tally-tepl-course-24.jpeg",
+    "local_path": "public/assets/issedu-tally-tepl-course-24.jpeg",
+    "bytes": 92800,
+    "dimensions": [
+      722,
+      575
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "issedu-tally-tepl-course-24"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/issedu-tally-tepl-course-23.jpeg",
+    "filename": "issedu-tally-tepl-course-23.jpeg",
+    "local_path": "public/assets/issedu-tally-tepl-course-23.jpeg",
+    "bytes": 89649,
+    "dimensions": [
+      722,
+      573
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "issedu-tally-tepl-course-23"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/issedu-tally-tepl-course-17.jpeg",
+    "filename": "issedu-tally-tepl-course-17.jpeg",
+    "local_path": "public/assets/issedu-tally-tepl-course-17.jpeg",
+    "bytes": 90762,
+    "dimensions": [
+      722,
+      574
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "issedu-tally-tepl-course-17"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/issedu-tally-tepl-course-18.jpeg",
+    "filename": "issedu-tally-tepl-course-18.jpeg",
+    "local_path": "public/assets/issedu-tally-tepl-course-18.jpeg",
+    "bytes": 91690,
+    "dimensions": [
+      720,
+      572
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "issedu-tally-tepl-course-18"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/issedu-tally-tepl-course-19.jpeg",
+    "filename": "issedu-tally-tepl-course-19.jpeg",
+    "local_path": "public/assets/issedu-tally-tepl-course-19.jpeg",
+    "bytes": 88988,
+    "dimensions": [
+      722,
+      575
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "issedu-tally-tepl-course-19"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/issedu-tally-tepl-course-20.jpeg",
+    "filename": "issedu-tally-tepl-course-20.jpeg",
+    "local_path": "public/assets/issedu-tally-tepl-course-20.jpeg",
+    "bytes": 91772,
+    "dimensions": [
+      722,
+      574
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "issedu-tally-tepl-course-20"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/issedu-tally-tepl-course-21.jpeg",
+    "filename": "issedu-tally-tepl-course-21.jpeg",
+    "local_path": "public/assets/issedu-tally-tepl-course-21.jpeg",
+    "bytes": 90981,
+    "dimensions": [
+      722,
+      573
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "issedu-tally-tepl-course-21"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/issedu-tally-tepl-course-22.jpeg",
+    "filename": "issedu-tally-tepl-course-22.jpeg",
+    "local_path": "public/assets/issedu-tally-tepl-course-22.jpeg",
+    "bytes": 91069,
+    "dimensions": [
+      722,
+      573
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/tally-course/",
+        "alt": "issedu-tally-tepl-course-22"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2026/05/goggle-review-e1779598934729.png",
+    "filename": "goggle-review-e1779598934729.png",
+    "local_path": "public/assets/goggle-review-e1779598934729.png",
+    "bytes": 4638,
+    "dimensions": [
+      164,
+      41
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/acca/",
+        "alt": ""
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2026/05/3-1024x585.jpeg",
+    "filename": "3-1024x585.jpeg",
+    "local_path": "public/assets/3-1024x585.jpeg",
+    "bytes": 93313,
+    "dimensions": [
+      1024,
+      585
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/acca/",
+        "alt": ""
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2024/11/UPST00290.png",
+    "filename": "UPST00290.png",
+    "local_path": "public/assets/UPST00290.png",
+    "bytes": 85257,
+    "dimensions": [
+      491,
+      554
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/acca/",
+        "alt": ""
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/12/abhinavsirca-students.jpg",
+    "filename": "abhinavsirca-students.jpg",
+    "local_path": "public/assets/abhinavsirca-students.jpg",
+    "bytes": 105762,
+    "dimensions": [
+      1344,
+      768
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/acca/",
+        "alt": ""
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/10/abhinavsirca-selections.png",
+    "filename": "abhinavsirca-selections.png",
+    "local_path": "public/assets/abhinavsirca-selections.png",
+    "bytes": 3110,
+    "dimensions": [
+      96,
+      73
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/acca/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/acca/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/acca/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/acca/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/acca/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/courses/acca/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": ""
+      },
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": ""
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2024/11/UPST00292.png",
+    "filename": "UPST00292.png",
+    "local_path": "public/assets/UPST00292.png",
+    "bytes": 2075,
+    "dimensions": [
+      590,
+      207
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/acca/",
+        "alt": "UPST00292"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2024/09/UPST0002.png",
+    "filename": "UPST0002.png",
+    "local_path": "public/assets/UPST0002.png",
+    "bytes": 1849,
+    "dimensions": [
+      217,
+      216
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/acca/",
+        "alt": "UPST0002"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2024/09/UPST0001.png",
+    "filename": "UPST0001.png",
+    "local_path": "public/assets/UPST0001.png",
+    "bytes": 1258,
+    "dimensions": [
+      170,
+      168
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/acca/",
+        "alt": "UPST0001"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2024/11/UPST00291.png",
+    "filename": "UPST00291.png",
+    "local_path": "public/assets/UPST00291.png",
+    "bytes": 1820,
+    "dimensions": [
+      215,
+      154
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/acca/",
+        "alt": "UPST00291"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2026/07/BCO.4c06dbcd-cfa3-4452-a7e2-ac02de415fad-765x1024.png",
+    "filename": "BCO.4c06dbcd-cfa3-4452-a7e2-ac02de415fad-765x1024.png",
+    "local_path": "public/assets/BCO.4c06dbcd-cfa3-4452-a7e2-ac02de415fad-765x1024.png",
+    "bytes": 986787,
+    "dimensions": [
+      765,
+      1024
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/acca/",
+        "alt": ""
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/CLAT.png",
+    "filename": "CLAT.png",
+    "local_path": "public/assets/CLAT.png",
+    "bytes": 26214,
+    "dimensions": [
+      360,
+      126
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/clat/",
+        "alt": ""
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/CUET.png",
+    "filename": "CUET.png",
+    "local_path": "public/assets/CUET.png",
+    "bytes": 32336,
+    "dimensions": [
+      446,
+      133
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/cuet/",
+        "alt": ""
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/IPMAT.png",
+    "filename": "IPMAT.png",
+    "local_path": "public/assets/IPMAT.png",
+    "bytes": 45798,
+    "dimensions": [
+      402,
+      128
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/ipmat-coaching/",
+        "alt": ""
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/UGC-NET.png",
+    "filename": "UGC-NET.png",
+    "local_path": "public/assets/UGC-NET.png",
+    "bytes": 45207,
+    "dimensions": [
+      423,
+      121
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/ugc-net-coaching/",
+        "alt": ""
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/1.Association-of-Chartered-Certified-Accountants-ACCA-600x782.jpg",
+    "filename": "1.Association-of-Chartered-Certified-Accountants-ACCA-600x782.jpg",
+    "local_path": "public/assets/1.Association-of-Chartered-Certified-Accountants-ACCA-600x782.jpg",
+    "bytes": 66813,
+    "dimensions": [
+      600,
+      782
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/foreign-courses/",
+        "alt": "1.Association of Chartered Certified Accountants (ACCA)"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/12/2.Certified-Public-Accountant-US-CPA-600x782.jpg",
+    "filename": "2.Certified-Public-Accountant-US-CPA-600x782.jpg",
+    "local_path": "public/assets/2.Certified-Public-Accountant-US-CPA-600x782.jpg",
+    "bytes": 55748,
+    "dimensions": [
+      600,
+      782
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/foreign-courses/",
+        "alt": "2.Certified Public Accountant (US CPA)"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/12/3.Chartered-Financial-Analyst-CFA-600x782.jpg",
+    "filename": "3.Chartered-Financial-Analyst-CFA-600x782.jpg",
+    "local_path": "public/assets/3.Chartered-Financial-Analyst-CFA-600x782.jpg",
+    "bytes": 58107,
+    "dimensions": [
+      600,
+      782
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/foreign-courses/",
+        "alt": "3.Chartered Financial Analyst (CFA)"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/12/4.Enrolled-Agent-EA-600x782.jpg",
+    "filename": "4.Enrolled-Agent-EA-600x782.jpg",
+    "local_path": "public/assets/4.Enrolled-Agent-EA-600x782.jpg",
+    "bytes": 59304,
+    "dimensions": [
+      600,
+      782
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/foreign-courses/",
+        "alt": "4.Enrolled Agent (EA)"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/12/5.Certified-Internal-Auditor-CIA-600x782.jpg",
+    "filename": "5.Certified-Internal-Auditor-CIA-600x782.jpg",
+    "local_path": "public/assets/5.Certified-Internal-Auditor-CIA-600x782.jpg",
+    "bytes": 59825,
+    "dimensions": [
+      600,
+      782
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/foreign-courses/",
+        "alt": "5.Certified Internal Auditor (CIA)"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/12/7.Certified-Financial-Planner-CFP-600x782.jpg",
+    "filename": "7.Certified-Financial-Planner-CFP-600x782.jpg",
+    "local_path": "public/assets/7.Certified-Financial-Planner-CFP-600x782.jpg",
+    "bytes": 57900,
+    "dimensions": [
+      600,
+      782
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/courses/foreign-courses/",
+        "alt": "7.Certified Financial Planner (CFP)"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/10/with-bg-01-300x266.png",
+    "filename": "with-bg-01-300x266.png",
+    "local_path": "public/assets/with-bg-01-300x266.png",
+    "bytes": 17675,
+    "dimensions": [
+      300,
+      266
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": ""
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2024/09/UPST0082.png",
+    "filename": "UPST0082.png",
+    "local_path": "public/assets/UPST0082.png",
+    "bytes": 921,
+    "dimensions": [
+      139,
+      138
+    ],
+    "format": "PNG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": "UPST0082"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/ca-foundation-590x370.jpg",
+    "filename": "ca-foundation-590x370.jpg",
+    "local_path": "public/assets/ca-foundation-590x370.jpg",
+    "bytes": 33110,
+    "dimensions": [
+      590,
+      370
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": "ca foundation"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/ca-intermediate-590x370.jpg",
+    "filename": "ca-intermediate-590x370.jpg",
+    "local_path": "public/assets/ca-intermediate-590x370.jpg",
+    "bytes": 33202,
+    "dimensions": [
+      590,
+      370
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": "ca intermediate"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/cseet-590x370.jpg",
+    "filename": "cseet-590x370.jpg",
+    "local_path": "public/assets/cseet-590x370.jpg",
+    "bytes": 31528,
+    "dimensions": [
+      590,
+      370
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": "cseet"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/cma-foundation-1-590x370.jpg",
+    "filename": "cma-foundation-1-590x370.jpg",
+    "local_path": "public/assets/cma-foundation-1-590x370.jpg",
+    "bytes": 33383,
+    "dimensions": [
+      590,
+      370
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": "cma foundation"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/cuet-590x370.jpg",
+    "filename": "cuet-590x370.jpg",
+    "local_path": "public/assets/cuet-590x370.jpg",
+    "bytes": 31187,
+    "dimensions": [
+      590,
+      370
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": "cuet"
+      }
+    ],
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://abhinavsirca.in/wp-content/uploads/2025/11/clat-590x370.jpg",
+    "filename": "clat-590x370.jpg",
+    "local_path": "public/assets/clat-590x370.jpg",
+    "bytes": 30282,
+    "dimensions": [
+      590,
+      370
+    ],
+    "format": "JPEG",
+    "references": [
+      {
+        "page": "https://abhinavsirca.in/about-abhinavsirca/",
+        "alt": "clat"
+      }
+    ],
+    "status": "downloaded"
+  }
+]

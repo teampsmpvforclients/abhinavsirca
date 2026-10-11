@@ -1,0 +1,35 @@
+# Dependencies and generated output
+node_modules/
+dist/
+coverage/
+.wrangler/
+.cloudflare-deploy.json
+# Local assistant state
+.openai/
+.codex/
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+.dev.vars
+.dev.vars.*
+!.dev.vars.example
+*.pem
+*.key
+*.p12
+*.pfx
+# Local databases, logs and exports
+*.sqlite
+*.sqlite3
+*.db
+*.db-shm
+*.db-wal
+*.log
+exports/
+# Editor and operating system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.tmp
