@@ -17,7 +17,7 @@
     "@phosphor-icons/react": "^2.1.10",
     "graphql": "16.11.0",
     "react": "19.3.0",
-    "react-dom": "19.3.0"
+    "react-dom": "19.3.1"
   },
   "devDependencies": {
     "vite": "7.3.7",
